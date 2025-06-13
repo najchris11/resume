@@ -26,7 +26,7 @@
 \usepackage{xcolor}
 \AddToShipoutPictureBG{%
   \AtTextLowerLeft{%
-    \raisebox{-1cm}{\makebox[\paperwidth][r]{\textsf{\small \textcolor[rgb]{0.8,0.8,0.8}{https://github.com/najchris11/resume v1.0.0}}\hspace{3cm}}}%
+    \raisebox{-1cm}{\makebox[\paperwidth][r]{\textsf{\small \textcolor[rgb]{0.8,0.8,0.8}{https://github.com/najchris11/resume v1.0.2}}\hspace{3cm}}}%
   }%
 }
 
@@ -37,9 +37,15 @@
     \hspace*{-18pt} \hrulefill \\
 }
 
-\newcommand{\header} [1] {
-    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
-    \vspace*{-6pt} \lineunder
+\newcommand{\header}[2][]{%
+    \vspace*{4pt}%
+    \noindent\makebox[\linewidth]{\textsc{#2}%
+    \ifx\\#1\\%
+        \hfill%
+    \else
+        \hfill {\small\textit{#1}}%
+    \fi}%
+    \vspace*{-6pt}\\\hrulefill
 }
 
 % END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
@@ -65,16 +71,15 @@
 
 
 %==== Skills ====%
-\header{Technical Skills}
-\vspace{1.5mm}
-\hspace{-3mm}
+\header{Technical Skills} \\
+\vspace{1mm}
 \begin{tabular}{ l l }
 
-    \textbf{Programming Languages:} Java, JavaScript/TypeScript, Python, C, C++, HTML, CSS \\
+    \textbf{Programming Languages:} Java, JavaScript/TypeScript, Python, C, C++, HTML, CSS, Kotlin, Swift \\
 
-    \textbf{Frameworks \& Tools:} React.js/Next.js, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, NGINX, MongoDB  \\
+    \textbf{Frameworks \& Tools:} Next.js, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, MongoDB, Jetpack Compose, SwiftUI  \\
 
-    \textbf{Certifications:} AWS Cloud Practitioner, AWS Certified Developer (Expected May. 2025)  \\
+    \textbf{Certifications:} AWS Associate Developer, CodePath Advanced Technical Interview Prep, CodePath Intro to iOS Development  \\
 
 \end{tabular}
 \vspace{2mm}
@@ -85,15 +90,22 @@
 
     \textbf{JPMorgan Chase \& Co.} \hfill \textsl{Columbus, OH}\\
     
-    \textit{Software Engineering Program Intern} \hfill \textsl{June 2024 - Present}\\
+    \textit{Software Engineering Program Intern - Mobile Development} \hfill \textsl{June 2025 - Present}\\
     \vspace{-7pt}
     \begin{itemize} \itemsep -1mm
 
-            \item Pioneer the modernization of an internal financial tool’s UI, transitioning from an outdated JSP application to a responsive React frontend, designed to reduce task time by up to 50\% for 1000+ global legal entities, helping developers maintain 99\% uptime
+            \item Rearchitected the logic for changing visual components in the Chase mobile app, impacting over 70M people
+                    
+    \end{itemize}
+    \textit{Software Engineering Program Intern - Full Stack Web Development} \hfill \textsl{June 2024 - May 2025}\\
+    \vspace{-7pt}
+    \begin{itemize} \itemsep -1mm
 
-            \item Modularize the new frontend using a microfrontend architecture and existing APIs, enabling partial integration with the legacy system, and facilitating easier maintenance across development teams, contributing to streamlined future updates
+            \item Pioneer the modernization of an internal financial tool’s UI, transitioning from an outdated \textbf{JSP} application to a responsive \textbf{React frontend}, designed to reduce task time by up to 50\% for \textbf{1000+ global legal entities}, helping developers maintain 99\% uptime
+
+            \item \textbf{Modularize the new frontend using a microfrontend} architecture and existing APIs, enabling partial integration with the legacy system, and facilitating easier maintenance across development teams, contributing to streamlined future updates
             
-            \item Independently implement a UI/UX redesign in Columbus, while collaborating closely with an international team of developers, designers and managers to ensure seamless alignment across global stakeholders using Jira to assure timely completion
+            \item Independently implement a UI/UX redesign in Columbus, while collaborating closely with an international team of developers, designers and managers to ensure seamless alignment across global stakeholders using \textbf{Jira} to assure timely completion
         
     \end{itemize}
     \vspace{-2mm}
@@ -106,23 +118,23 @@
         
             \item Led the Comprehensive Cancer Center’s transition to a new CMS, empowering individual organizations to manage their own content and enabling more frequent content updates with streamlined workflows
 
-            \item Developed and customized dynamic web content using C\# and HTML in Umbraco, optimizing template performance to improve user experience and content delivery efficiency
+            \item \textbf{Developed and customized dynamic web content using C\# and HTML} in Umbraco, optimizing template performance to improve user experience and content delivery efficiency
             
-            \item Revitalized webpages by designing and implementing a new UI system, achieving 100\% accessibility compliance and significantly improving user engagement and content delivery across the site
+            \item Revitalized webpages by designing and implementing a new UI system, achieving \textbf{100\% accessibility compliance} and significantly improving user engagement and content delivery across the site
 
     \end{itemize}
     \vspace{-2mm}
 
 %==== Projects ====%
-\header{Projects}
+\header[More at naj-dev.com]{Projects}
 
     {\textbf{JPMorgan Chase Code for Good 24Hr Hackathon - CTRL-R Platform}} {\sl React, Firebase, Tailwind CSS, AWS EC2} \hfill \textsl{June 2024 - Present}\\
     \vspace{-2mm}
     \begin{itemize} \itemsep -1mm
     
-        \item Awarded challenge winner for Pyramid CDC, a local non-profit focused on improving digital literacy in underserved Ohio communities, by developing a platform that engaged 1000+ residents with course paths and gamification, boosting retention
+        \item \textbf{Awarded challenge winner} for Pyramid CDC, a local non-profit focused on improving digital literacy in underserved Ohio communities, by developing a platform that engaged 1000+ residents with course paths and \textbf{gamification}, boosting retention
 
-        \item Specialized in configuring the Firebase store and authentication, integrating it into the codebase, while collaborating with team members to create a fully functional, user-friendly platform
+        \item Specialized in configuring the \textbf{Firebase store and authentication}, integrating it into the codebase, while collaborating with team members to create a fully functional, user-friendly platform
 
     \end{itemize}
     \vspace{-2mm}
@@ -131,21 +143,10 @@
     \vspace{-2mm}
     \begin{itemize} \itemsep -1mm
 
-        \item Built and maintained a home server system using Docker and NGINX, increasing uptime from 40\% to 95\% and sextupling performance, securely managing and delivering content to dozens of international users
+        \item Built and maintained a home server system using \textbf{Docker} and \textbf{NGINX}, increasing \textbf{uptime from 40\% to 95\%} and sextupling performance, securely managing and delivering content to dozens of international users
         
         \item Engineered the system using Linux, performing custom optimizations to drastically improve system reliability and user experience, supporting multiple media, file storage, and security devices
         
-    \end{itemize}
-    \vspace{-2mm}
-
-    {\textbf{M.C. Jeter Books Webpage}} {\sl HTML, PHP, CSS, Git} \hfill \textsl{Jan 2023 - Present}\\
-    \vspace{-2mm}
-    \begin{itemize} \itemsep -1mm
-
-        \item Designed and developed a mobile-friendly website for M.C. Jeter, significantly improving page load times and user engagement, with a new Next.js iteration projected to further enhance performance
-
-        \item Integrated features such as a blog, book listings, and contact forms, resulting in a projected 25\% uplift in book sales and social media interactions
-            
     \end{itemize}
     \vspace{-2mm}
 
@@ -171,15 +172,11 @@
     \end{itemize}
     \vspace{-1mm}
 
-%==== Skills ====%
 \header{Additional Information}
 \vspace{1mm}
-\hspace{-3mm}
 \begin{tabular}{ l l }
 
     \textbf{Organizations/Affiliations:} Minority Collegiate Outreach and Support Team Mentor, Minorities in Tech Member, BOLD at JPMC \\
-
-    \textbf{Other Interests:} Cybersecurity, Bleeding-Edge Tech, Technical Project Management, Music \\
 
     \textbf{Languages:} Fluent in French \\
 
