@@ -27,6 +27,9 @@ format and constraints
   • keep in mind that bolded text, wider glyphs (e.g., “W”), and LaTeX styling reduce effective capacity, so phrase accordingly to keep visual alignment.  
   • bold the most relevant keywords, technologies, and achievements using `\textbf{...}`, focusing on terms from the job-posting.txt.  
 - never introduce external content or URLs not present in master-resume.tex.
+- the resume must fit on one page, which equals about 52 lines of content at the current LaTeX formatting (~105 characters wide per line).
+- bullets and section content must be written so the entire resume stays within this vertical height limit.
+- graduation date in the Education section may be adjusted by the assistant to align with the target role’s timeframe. For example, if the job-posting.txt specifies an internship in Summer 2026, update “December 2025” → “December 2026” to keep graduation aligned. always have the grad date one semester after the internship date.
 
 output
 - return the full LaTeX source for resume.tex only. no explanations, no shell commands, no file listings.
