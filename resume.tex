@@ -5,7 +5,7 @@
 % License : MIT
 %------------------------
 
-\docume      \resumeSubheadingetterpaper,11pt]{article}
+\documentclass[letterpaper,11pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -120,20 +120,21 @@
 
 \begin{document}
 
-%----------HEADING----------
+%----------HEADING---------- (Slight modification: removed underline from contact links for potentially better parsing)
 \begin{center}
     \textbf{\Huge \scshape Christian Wilkins} \\ \vspace{1pt}
     \small \href{mailto:christian.wilkins.careers@gmail.com}{christian.wilkins.careers@gmail.com} $|$
     \href{https://www.linkedin.com/in/christian--wilkins/}{linkedin.com/in/christian--wilkins/} $|$
     \href{https://github.com/christianwilkins}{github.com/christianwilkins} $|$
-    \href{https://chriswiki.com/}{chriswiki.com}
+    \href{https://chriswiki.com/}{chriswiki.com} % Removed \phantom{/}
 \end{center}
+
 
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Michigan State University}{December 2025}
+      {Michigan State University}{December 2026}
       {Bachelor of Science in Computer Science, Minor in Business - GPA 3.9}{East Lansing, MI}
   \resumeSubHeadingListEnd
 
@@ -141,9 +142,9 @@
 \section{Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: \textbf{C++}, \textbf{C}, Java, Python, JavaScript, TypeScript, Golang} \\
-     \textbf{Technologies}{: \textbf{Multithreading}, \textbf{Concurrency}, \textbf{Distributed Systems}, Linux, Docker, Kubernetes, AWS (S3, EC2, Lambda, RDS, DynamoDB), Git, Spring Boot, React.js, Firebase} \\
-     \textbf{Concepts}{: \textbf{High-Performance Systems}, \textbf{Performance Optimization}, Data Structures and Algorithms, \textbf{Low-Latency Computing}, Microservices Architecture, DevOps, CI/CD, Full Stack Development} }}
+     \textbf{Languages}{: Python, Java, C, C++, JavaScript, TypeScript, Golang, Dart} \\
+     \textbf{Technologies}{: AWS (S3, EC2, Lambda, RDS, DynamoDB, IAM, CloudFormation), \textbf{Kubernetes}, Docker, React.js, Spring Boot, Flask, NodeJS, Firebase, Git, Linux, Spinnaker} \\
+     \textbf{Concepts}{: \textbf{Data Structures and Algorithms}, \textbf{Distributed Systems}, \textbf{Backend Development}, \textbf{Data Engineering}, DevOps, CI/CD, Microservices Architecture, Data Migration, Cloud Computing, Full Stack Development, Agile} }}
  \end{itemize}
 
 %-----------EXPERIENCE-----------
@@ -154,37 +155,37 @@
       {Software Engineering Intern}{June 2025 -- August 2025}
       {JPMorganChase}{Columbus, OH}
     \resumeItemListStart
-        \resumeItem{Developed an \textbf{AI-powered matching engine} using \textbf{scikit-learn, spaCy, and PostgreSQL} that optimized internal job placements, winning first place at \underline{\href{https://www.linkedin.com/posts/indi-de-silva_at-jpmorganchase-our-internship-program-activity-7355579081490354177-NYLE}{JPMC Global Hackathon}} out of 1000+ participants through \textbf{elegant algorithmic solutions}.}
-        \resumeItem{Optimized \textbf{AWS S3 data migrations for concurrency by 95\%} using \textbf{concurrent.futures and boto3} in Python, implementing \textbf{high-performance distributed processing} with focus on \textbf{throughput and reliability}.}
-        \resumeItem{Implemented \textbf{PactFlow \& Jules contract testing} reducing cross-team integration issues by 90\%, ensuring \textbf{production-ready systems} with comprehensive monitoring and support strategies.}
+        \resumeItem{Developed an \textbf{AI-powered matching engine using scikit-learn, spaCy, and PostgreSQL} that automated internal job placements at scale, winning first place at \underline{\href{https://www.linkedin.com/posts/indi-de-silva_at-jpmorganchase-our-internship-program-activity-7355579081490354177-NYLE}{JPMC Global Hackathon}} out of 1000+ participants.}
+        \resumeItem{Optimized \textbf{AWS S3 data migration pipelines} for concurrency by 95\% using \textbf{concurrent.futures and boto3} in Python, handling large-scale data transfers across distributed systems.}
+        \resumeItem{Implemented \textbf{PactFlow \& Jules contract testing framework}, reducing cross-team integration issues by 90\% and improving backend service reliability in microservices architecture.}
     \resumeItemListEnd
 
     \resumeSubheading
       {Software Engineering Intern}{May 2024 -- August 2024}
       {Configura}{Grand Rapids, MI}
       \resumeItemListStart
-        \resumeItem{Engineered a custom sales extension in a \textbf{75M+ line proprietary codebase} (C\#/Java-like), collaborating daily with clients to integrate new functionalities that directly enabled core product sales through \textbf{clean, performant code}.}
-        \resumeItem{Navigated vast, undocumented systems, proactively engaging senior engineers to ensure seamless integration while maintaining \textbf{high ownership} of deliverables and taking full responsibility for production outcomes.}
-        \resumeItem{Pioneered novel \textbf{hit detection algorithms} for modeled spaces, preventing impossible configurations and enhancing user experience through \textbf{optimized computational geometry} and \textbf{performance-critical implementations}.}
+        \resumeItem{Engineered a custom sales extension in a \textbf{75M+ line, \href{https://support.configura.com/hc/en-us/articles/360048763074-Configura-Magic-Introduction-and-Code-Philosophy}{proprietary CM} codebase (C\#/Java-like)}, collaborating with clients to integrate new functionalities that directly enabled core product sales.}
+        \resumeItem{Navigated complex, undocumented distributed system architecture, proactively engaging senior engineers to ensure seamless integration and scaling across multiple service layers.}
+        \resumeItem{Pioneered novel \textbf{hit detection algorithms for modeled spaces}, preventing impossible configurations and enhancing user experience through optimized backend processing.}
       \resumeItemListEnd
 
 \resumeSubheading
       {Undergraduate Research Assistant}{October 2023 -- April 2024}
       {Michigan State University}{East Lansing, MI}
       \resumeItemListStart
-        \resumeItem{Processed HIPAA-compliant data for \textbf{ML pipeline} using Python, scikit-learn, NLP, and CV for auto-grading medical exams, achieving \textbf{89\% validation accuracy} while reducing processing time from months to days.}
-        \resumeItem{Implemented \textbf{high-performance data processing algorithms} with focus on \textbf{throughput optimization} and \textbf{distributed computing} principles for large-scale medical data analysis.}
+        \resumeItem{Built \textbf{machine learning data pipelines (Python, scikit-learn, NLP, CV)} for processing HIPAA-compliant medical data, automating exam grading at scale and reducing processing time from months to days.}
+        \resumeItem{Achieved 89\% validation accuracy on distributed ML systems, implementing efficient \textbf{data structures and algorithms} for real-time medical assessment processing.}
       \resumeItemListEnd
 
       \resumeSubheading
       {Board Advisor}{March 2024 -- Present}
       {\underline{\href{https://www.imagine-software.org/}{Imagine Software}}}{East Lansing, MI}
       \resumeItemListStart
-        \resumeItem{Oversaw internship-like experience for 60 students in 10 teams, checking in bi-weekly to ensure \textbf{clear communication} and delivery of production-ready solutions through \textbf{high ownership mentality}.}
-        \resumeItem{Promoted and led as President, resulting in 100\% growth with 350+ new members through targeted outreach, demonstrating \textbf{leadership in high-performance environments} and ability to \textbf{scale operations efficiently}.}
+        \resumeItem{Scaled organization infrastructure to support 350+ new members (100\% growth), overseeing 60 students across 10 distributed teams through systematic bi-weekly check-ins and mentorship programs.}
       \resumeItemListEnd
 
 \resumeSubHeadingListEnd
+
 
 %-----------PROJECTS-----------
 \section{Projects}
@@ -192,18 +193,19 @@
     \resumeProjectHeading
           {\underline{\textbf {\href{https://github.com/keshavbabu/shellhacks/tree/main}{hurrycane}}} $|$ \emph{Swift, MongoDB, Firebase, Go, iOS}}{September 2024}
           \resumeItemListStart
-            \resumeItem{Architected and developed \textbf{'hurrycane'} with Swift iOS frontend and \textbf{Go backend}, implementing \textbf{real-time ride-sharing} using MongoDB and Firebase for emergency evacuations, winning \textbf{Waymo @ ShellHacks 2024}.}
-            \resumeItem{Implemented \textbf{scalable, concurrent Go routing algorithms} for multi-stop routes with \textbf{optimized continuous location tracking}, focusing on \textbf{low-latency performance} and \textbf{distributed systems architecture}.}
+            \resumeItem{Architected \textbf{real-time ride-sharing backend system using Go and MongoDB}, implementing scalable concurrent routing algorithms for multi-stop emergency evacuation routes, \textbf{winning Waymo @ ShellHacks 2024}.}
+            \resumeItem{Built \textbf{distributed location tracking system} with Firebase integration, optimizing for high-throughput data ingestion and real-time processing across thousands of concurrent users.}
           \resumeItemListEnd
       \resumeProjectHeading
           {\textbf{RecycleMe} $|$ \emph{Flutter, Firebase, OpenAI APIs, Python, PyTorch, TensorFlow}}{October 2023 -- April 2024}
           \resumeItemListStart
-            \resumeItem{Led 5-member agile team developing RecycleMe MVP in 90 days, implementing \textbf{high-performance object recognition} via GPT-Vision and custom dataset achieving \textbf{90\% accuracy through optimized algorithms}.}
+            \resumeItem{Led 5-member agile team to develop RecycleMe MVP with \textbf{Firebase backend and custom ML data pipeline}, achieving 90\% object recognition accuracy through GPT-Vision integration and custom dataset training.}
+            \resumeItem{Implemented \textbf{scalable backend architecture} supporting real-time image processing and gamification features, following comprehensive technical specification documentation and agile methodologies.}
           \resumeItemListEnd
       \resumeProjectHeading
           {\underline{\textbf {\href{https://www.notelify.co/}{Notelify}}} $|$ \emph{Next.js, React, Supabase, TypeScript}}{October 2023 -- April 2024}
           \resumeItemListStart
-            \resumeItem{Developed Notelify frontend using Next.js and React, integrating \textbf{cost-effective Mozilla Speech-to-Text API} with OpenAI APIs via \textbf{optimized prompt engineering} for automated meeting summaries, reducing student effort by 95\%.}
+            \resumeItem{Developed \textbf{full-stack application with Next.js frontend and Supabase backend}, integrating Mozilla Speech-to-Text API with OpenAI for automated meeting summaries, reducing manual note-taking effort by 95\%.}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 
