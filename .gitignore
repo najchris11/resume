@@ -1,4 +1,20 @@
-# pdflatex output
-resume.aux
-resume.log
-resume.pdf
+# LaTeX build artifacts
+*.aux
+*.log
+*.pdf
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Editor/OS files
+.DS_Store
+*~
+*.swp
+
+# Exclude accidental logs
+resume 2.log
+
+versions
+job-posting.txt
