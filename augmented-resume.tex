@@ -1,0 +1,477 @@
+\documentclass[letterpaper]{article}
+\usepackage{
+    fullpage,
+    mathptmx,
+    amsmath,
+    amssymb,
+    textcomp,
+    enumitem,
+    eso-pic,
+    xcolor
+}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\setlist{leftmargin=6mm} % Set bullet point margin %
+\textheight=10in
+\pagestyle{empty}
+\raggedright
+\usepackage[left=0.6in,right=0.6in,bottom=0.7in,top=0.7in]{geometry}
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% Add text watermark to the bottom right of each page
+\usepackage{}
+\usepackage{xcolor}
+\AddToShipoutPictureBG{%
+  \AtTextLowerLeft{%
+    \raisebox{-1cm}{\makebox[\paperwidth][r]{\textsf{\small \textcolor[rgb]{0.8,0.8,0.8}{https://github.com/najchris11/resume v1.0.2}}\hspace{3cm}}}%
+  }%
+}
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header}[2][]{%
+    \vspace*{4pt}%
+    \noindent\makebox[\linewidth]{\textsc{#2}%
+    \ifx\\#1\\%
+        \hfill%
+    \else
+        \hfill {\small\textit{#1}}%
+    \fi}%
+    \vspace*{-6pt}\\\hrulefill
+}
+
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{tightitemize}{%
+  \begin{itemize}\small\setlength{\baselineskip}{0.95\baselineskip}\itemsep -1mm%
+}{\end{itemize}}
+
+
+\begin{document}
+\vspace*{-40pt}
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Christian Coulibaly}}\\
+	(614) 285 0735 $\cdot$ najchris11@yahoo.com $\cdot$ U.S. Citizen \\
+    naj-dev.com $\cdot$ github.com/najchris11 $\cdot$ linkedin.com/in/christiancoulibaly\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\vspace{1mm}
+
+    \textbf{The Ohio State University} \hfill Columbus, OH\\
+    \textit{Bachelor of Science in Computer Science and Engineering, Minor in French}\hfill Expected May 2026\\
+
+    \vspace{2mm}
+
+
+%==== Skills ====%
+\header{Technical Skills} \\
+\vspace{1mm}
+\begin{tabular}{ l l }
+
+    \textbf{Programming Languages:} Java, TypeScript, JavaScript, Python, C, C++, HTML, Kotlin, Swift, PHP, C\#, Assembly (x86), SQL \\
+
+    \textbf{Frameworks \& Tools:} Next.js, React, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, MongoDB, Jetpack Compose, SwiftUI, Bootstrap, Firebase, Xamarin.FORMS, Redux, Jest, Webpack, Material UI, ShadCN UI, Vercel, OpenCore, Unraid, SWAG, Cloudflare Tunnels, OpenWRT, Flutter, Adobe Creative Cloud Suite, WordPress, Umbraco \\
+
+    \textbf{Hardware \& Embedded:} Arduino IDE, DHT Sensor, RGB LED, LCD Display, System Building, Hardware Debugging, OpenCore EFI Configuration, Networking, Servers \& Containerization \\
+
+    \textbf{Certifications:} AWS Cloud Practitioner, AWS Certified Developer (Expected Dec 2025), CodePath Advanced Technical Interview Prep, CodePath Intro to iOS Development  \\
+
+\end{tabular}
+\vspace{2mm}
+
+%==== Experience ====%
+\header{Work Experience}
+\vspace{1mm}
+
+    \textbf{JPMorgan Chase \& Co.} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Software Engineering Program Intern - Mobile Development} \hfill \textsl{June 2025 - Present}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+
+            \item Self-taught \textbf{Jetpack Compose} and \textbf{MVVM} patterns to accelerate onboarding and contribute to the Chase Android app, used by \textbf{70M+ users}
+            
+            \item Collaborated with developers to refactor existing merchandising tile logic and adapt Android View templates for a new tile design, improving customer interaction by \textbf{15\%}
+            
+            \item Led the transition of my team's package to Jetpack Compose by rewriting merchandising tiles and their bindings, pioneering Compose adoption, enabling more flexible layouts for future features, and decreasing future developer efforts
+                    
+    \end{tightitemize}
+    \textit{Software Engineering Program Intern - Full Stack Web Development} \hfill \textsl{June 2024 - May 2025}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+
+            \item Pioneered the modernization of an internal financial tool's UI, transitioning from an outdated \textbf{JSP} application to a responsive \textbf{React frontend}, designed to reduce task time by up to 50\% for \textbf{1000+ global legal entities}, helping developers maintain 99\% uptime
+
+            \item Worked independently on the UI/UX redesign in Columbus while coordinating closely with an international team of developers, designers, and managers using Jira, mastering unit testing with \textbf{Jest} and \textbf{React Redux}
+
+            \item Modularized the new frontend using a \textbf{microfrontend} architecture and existing APIs, enabling partial integration with the legacy system and implementing comprehensive testing with \textbf{Jest} and \textbf{Webpack}
+                    
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{The Ohio State University Wexner Medical Center} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Web Content Editor} \hfill \textsl{May 2023 - Aug 2024}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Led the Comprehensive Cancer Center's transition to a new CMS, empowering individual organizations to manage their own content and enabling more frequent content updates with streamlined workflows
+            
+            \item Revitalized webpages by designing and implementing a new UI system, achieving \textbf{100\% accessibility compliance} and significantly improving user engagement and content delivery across the site
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{Apex Premier Solutions} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Field Technician} \hfill \textsl{Oct 2022 - Aug 2024}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Installed and programmed security systems including cameras and wireless access points for small businesses and grade schools, providing security and stability solutions for clients
+            
+            \item Ensured teams provided a coordinated and organized effort towards successful installation and cleanup on jobsites, demonstrating leadership and project management skills
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{Xtek Partners, Inc.} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Field Technician} \hfill \textsl{Jan 2020 - Aug 2020}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Programmed and installed a variety of tech solutions including cameras and wireless access points for schools and other businesses, performing server/network troubleshooting
+            
+            \item Coordinated and managed other technicians' work on job sites, ensuring successful project completion and quality service delivery
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{HIS Solutions, LLC} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Website Content Moderator} \hfill \textsl{Jan 2020 - Present}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Edited and maintained website content ensuring quality and consistency across digital platforms
+            
+            \item Assisted in bookkeeping and reconciling fiscal records, demonstrating attention to detail and financial acumen
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{Self-Employed Freelance Services} \hfill \textsl{Columbus, OH Metropolitan Area}\\
+    
+    \textit{System Integrator} \hfill \textsl{Sep 2019 - Present}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Plan ways to pair individuals and local organizations with used or new computer parts to meet their computing requirements, servicing broken desktop and laptop computers
+            
+            \item Occasionally provide instruction that helps customers troubleshoot on their own, demonstrating technical expertise and customer service skills
+
+    \end{tightitemize}
+    \vspace{-2mm}
+    
+    \textit{Private Tutor} \hfill \textsl{Aug 2018 - Aug 2024}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Facilitated high school and college students' understanding of Computer Science and French topics through meetings, lesson plans, and group/individual test review sessions
+            
+            \item Provided comprehensive tutoring services spanning 6 years, helping students achieve academic success in technical and language subjects
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+%==== Projects ====%
+\header[More at naj-dev.com]{Projects}
+
+    {\textbf{JPMC Global Hackathon – Internal Mobility Strategy (1st Place, Columbus)}} {\sl React, Python, OpenAI API, NLP} \hfill \textsl{June 2025} \\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+        \item \textbf{Won 1st place out of 64 teams} at the Columbus division of JPMorgan Chase's 10th Annual Global Hackathon for building an internal mobility assistant to help employees discover and transition into better aligned roles
+        \item Built a backend system that uses \textbf{NLP techniques} and Python's \textbf{Counter} to compare user resumes and job descriptions, scoring overlap to recommend best-fit internal roles; designed for future LLM integration
+        \item Collaborated across frontend, backend, and agentic AI teams to build a chatbot-driven platform with role-matching logic and automated outreach workflows
+    \end{tightitemize}
+
+    \vspace{-2mm}
+    {\textbf{Naj-Dev Portfolio Website}} {\sl Next.js, TypeScript, ShadCN UI, Vercel} \hfill \textsl{2024 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Designed and developed a modern portfolio website showcasing projects, skills, and experience using \textbf{Next.js} and cutting-edge technologies, featuring a dynamic project grid with support for embedded videos and images
+
+        \item Implemented a \textbf{modular structure for scalability and reusability}, with plans to integrate the T3 stack for backend support, user interactions, and advanced animations leveraging server-side rendering for enhanced performance
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{AI Last.fm Playlist Generator}} {\sl Python, Last.fm API, OpenAI APIs, Pandas} \hfill \textsl{2024 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Developed a machine learning project that analyzes Last.fm data to generate 20-song playlists based on user preferences and song similarities, creating a pipeline to fetch and process user listening data from the Last.fm API
+
+        \item Designed an intuitive interface for generating and exporting playlists with planned AI-based song similarity analysis using \textbf{OpenAI models} to provide personalized playlist recommendations
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Breakout Simulation Labs}} {\sl C, Assembly Language (x86), Linked Lists, Dynamic Memory, Graphics Library} \hfill \textsl{Fall 2024}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Built a comprehensive game simulation with progressive complexity across multiple labs, implementing single ball, paddle, and block mechanics, then extending to support multiple objects, scoring, and linked list integration
+
+        \item Developed expertise in \textbf{assembly programming with register allocation, stack alignment, and efficient array operations}, including custom linked list functions and advanced memory management techniques to handle allocation failures gracefully
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{JPMC Code for Good Hackathon - CTRL-R (1st Place, Pyramid CDC)}} {\sl React, Firebase, Tailwind CSS, AWS EC2} \hfill \textsl{Nov 2023}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item \textbf{Awarded challenge winner} for Pyramid CDC, a local non-profit focused on improving digital literacy in underserved Ohio communities, by developing a platform that engaged 1000+ residents with course paths and \textbf{gamification}, boosting retention
+
+        \item Specialized in configuring the \textbf{Firebase store and authentication}, integrating it into the codebase, while collaborating with team members to create a fully functional, user-friendly platform
+
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{HDNCHQ Server Management}} {\sl Unraid, Docker, SWAG, Cloudflare Tunnels, OpenWRT} \hfill \textsl{2019 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Built and maintained a personal server system for hosting media and productivity tools, improving \textbf{server uptime from 40\% to 95\%} and sextupling performance with better resource allocation and advanced configuration skills
+        
+        \item Engineered the system using Linux with custom optimizations to drastically improve system reliability and user experience, supporting multiple media, file storage, and security devices for dozens of international users
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{ECE 2360 Final Project - Temperature-Activated Lamp}} {\sl Arduino IDE, C++, DHT Sensor, RGB LED, LCD Display} \hfill \textsl{Spring 2024}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Designed and implemented a temperature-activated lamp with RGB LED, LCD, and buzzer functionality, combining sensors and microcontroller programming to create a cohesive hardware project
+        
+        \item Applied GitHub for collaboration and resolved complex hardware and software troubleshooting challenges, demonstrating proficiency in embedded systems development
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Time - Productivity-Focused Time Management App}} {\sl React, Next.js, tRPC, Prisma, OpenAI APIs} \hfill \textsl{2024 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Built a productivity-focused time management application designed to streamline daily planning and goal tracking, improving quality of life for users
+        
+        \item Implemented comprehensive planning features and goal tracking systems using modern web technologies to enhance user productivity and organization
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Next.js Lightweight CMS}} {\sl Next.js, TypeScript, ShadCN UI, Vercel} \hfill \textsl{2024 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Built a lightweight CMS with \textbf{Next.js} for dynamic content management, designed for portfolio projects and small-scale websites with integrated rich-text editing and Markdown support for posts
+        
+        \item Designed a modular architecture to support scalability across different applications with planned dynamic content management via a headless CMS setup
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Mobile App Development Projects}} {\sl C\#, Xamarin.Forms, SQL, Visual Studio} \hfill \textsl{Summer 2021}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Created various mobile applications including AudioPlayer and JSONDemo, demonstrating proficiency in mobile UI design, event handling, and data management
+        
+        \item Gained experience in database integration for data persistence and cross-platform mobile development using Xamarin.Forms
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Web Application Development Final Project}} {\sl HTML, CSS (Bootstrap), JavaScript, PHP} \hfill \textsl{Spring 2021}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Developed a web application consuming a RESTful API with responsive design implemented using Bootstrap and dynamic content fetching from external APIs
+        
+        \item Demonstrated fullstack development skills combining frontend technologies with PHP backend development
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{XPS9570-Opencore-IntelWifi}} {\sl OpenCore, ACPI Source Language (ASL), Hackintosh Customization} \hfill \textsl{2021}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Provided a tailored OpenCore EFI configuration for the Dell XPS 15 9570 with Intel WiFi, enabling macOS installation and optimization on non-Apple hardware
+        
+        \item Included necessary ACPI patches and kexts for hardware functionality, facilitating a seamless macOS experience
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Movie Center}} {\sl Java} \hfill \textsl{2021}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Developed a Java-based application with team Aviato for managing and viewing movie collections, featuring a functional GUI for movie management
+        
+        \item Implemented features for adding, viewing, and organizing movies, showcasing proficiency in Java and GUI application development
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Java Projects Repository}} {\sl Java, Eclipse IDE} \hfill \textsl{2019}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Developed multiple applications including a Barcode Encoder and Class Generator, applying object-oriented programming principles effectively
+        
+        \item Gained experience in implementing algorithms and designing reusable code, reflecting foundational skills in Java programming
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Jump The Broom Books Website}} {\sl Next.js, React, Material UI, Vercel, APIs} \hfill \textsl{2024 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Created a responsive website for Jump The Broom Books showcasing its offerings and providing an online presence, ensuring user-friendly design across devices
+        
+        \item Developed a personalized book advertisement system that enhances organization and discoverability for avid readers, designing algorithms for book recommendation and discovery with an intuitive interface for book enthusiasts
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{M.C. Jeter's Portfolio Website}} {\sl HTML, Bootstrap, Vercel} \hfill \textsl{2023}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Built a portfolio website for author M.C. Jeter showcasing her authorial works, achieving faster load times with a revamped design
+        
+        \item Delivered an estimated \textbf{25\% uplift in sales and social media interactions} through improved user experience and static site optimization, with new iteration planned for 2025 using a lightweight CMS
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Naj's PCs - Custom PC Building Business}} {\sl System Building, Hardware Debugging, OS Configuration, Performance Optimization} \hfill \textsl{2021 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Delivered high-performance gaming PCs and silent, efficient servers tailored to client needs, optimizing hardware configurations for reliability and maximum efficiency while successfully debugging compatibility issues in complex builds
+        
+        \item Configured operating systems, software, and drivers for smooth user experiences, demonstrating advanced expertise in building custom PCs for gaming, media servers, and productivity setups, adapting to client requirements and innovating solutions for performance, acoustics, and aesthetics
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Weather Widget}} {\sl HTML, CSS, JavaScript, APIs} \hfill \textsl{Mar - May 2021}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Developed a web application that displays weather information via ZIP code input, demonstrating web fundamentals with dynamic, real-time functionality
+        
+        \item Applied HTML, CSS, and JavaScript with external APIs to create an interactive user experience and showcase proficiency in frontend development
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    {\textbf{Checklist Desktop Application}} {\sl Java, Swing, JFrame} \hfill \textsl{2019}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+
+        \item Designed a user-friendly desktop application using Java Swing for creating and managing checklists with basic file operations for saving and loading
+        
+        \item Gained experience in desktop application development focusing on creating functional and user-friendly task management tools
+        
+    \end{tightitemize}
+    \vspace{-2mm}
+
+%==== Leadership ====%
+\header{Leadership and Professional Development}
+\vspace{1mm}
+
+    \textbf{National Society of Black Engineers (NSBE)} \textit{| Recording Secretary} \hfill \textsl{Aug 2023 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Oversee meeting documentation, coordinate weekly newsletters, oversee website and social media changes, and assist in planning events like NSBE Week, driving communication for 100+ members and collaborating with 150 chapters internationally
+        
+        \item Contributed to OSU chapter being honored as \textbf{runner-up for Chapter of the Year}, recognizing our impact on campus and in the broader community through effective leadership and organization
+        
+    \end{tightitemize}
+    \vspace{-1mm}
+
+    \textbf{ColorStack - OSU} \textit{| Active Member} \hfill \textsl{Aug 2023 - Present}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Participate in technical and behavioral interview workshops with industry leaders like Adobe and JP Morgan Chase, and mentor peers
+        
+    \end{tightitemize}
+    \vspace{-1mm}
+
+    \textbf{St. Charles Preparatory School} \textit{| Mentor/Tutor - "My Brother's Keeper"} \hfill \textsl{2015 - 2018}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Organized and managed community events, tutored and assisted children individually and in small groups, reinforcing learning concepts from teachers and teaching social skills while recording student progress
+        
+    \end{tightitemize}
+    \vspace{-1mm}
+
+    \textbf{Gospel Road Community Service} \textit{| Volunteer} \hfill \textsl{2016 - 2018}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Organized community service projects and constructed furniture for elderly families, demonstrating commitment to community service and hands-on problem solving
+        
+    \end{tightitemize}
+    \vspace{-1mm}
+
+    \textbf{Boy Scouts of America} \textit{| Star Scout} \hfill \textsl{2012 - 2016}\\
+    \vspace{-2mm}
+    \begin{tightitemize} \itemsep -1mm
+    
+        \item Achieved Star Scout rank through demonstrated leadership, outdoor skills, and community service, developing foundational leadership and teamwork abilities
+        
+    \end{tightitemize}
+    \vspace{-1mm}
+
+\header{Additional Information}
+\vspace{1mm}
+\begin{tabular}{ l l }
+
+    \textbf{Organizations/Affiliations:} Minority Collegiate Outreach and Support Team Mentor, Minorities in Tech Member, BOLD at JPMC \\
+
+    \textbf{Languages:} Fluent in French (Native or Bilingual proficiency) \\
+
+    \textbf{Previous Education:} Miami University (2018-2021), 106 Credit Hours Completed in Software Engineering \\
+
+    \textbf{High School Activities:} Varsity Track and Field, Eucharistic Ministry, Altar Service \\
+
+\end{tabular}
+\vspace{2mm}
+
+\end{document}
