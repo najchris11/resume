@@ -1,115 +1,87 @@
 
+Skip to Main Content
+Back to Atlassian Careers
+Returning Candidate?
+Log back in!
+Software Engineer, 2026 Graduate U.S.
+Job Locations US-WA-Seattle | US-WA-Seattle
+ID REQ-2025-3367
 
-    Ramp
+Category
+    Graduates 
 
-Mobile Engineer | Android
-Location
+Overview
 
-New York, NY (HQ), San Francisco, CA
-Employment Type
+Working at Atlassian
 
-Full time
-Location Type
+Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
 
-Hybrid
-Department
+Your Future Org
 
-Engineering
+Atlassian’s Grad++ program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+
+This role is located in Seattle, WA. To qualify, you must be willing and able to work out of this location.
+
+This position is not eligible for F1 and J1 students. It is not available for any work sponsorship.
+Responsibilities
+
+Responsibilities
+
+    Build Production-Ready Features: Develop scalable code for Atlassian's products (Jira, Confluence, Trello) used by millions of teams worldwide, contributing to reliable systems that power global collaboration
+
+    Own End-to-End Projects: Take ownership of features from design through deployment, including implementation, testing, and monitoring in production environments
+
+    Collaborate in Agile Teams: Work closely with senior engineers, product managers, and designers using Agile methodologies and lean practices to deliver impactful solutions
+
+    Innovate with AI/ML Technologies: Contribute to AI-powered features and integrations, working with modern frameworks, agentic systems, and intelligent automation capabilities
+
+    Solve Complex Technical Problems: Tackle challenging issues related to distributed systems, data processing, and user experience optimization while using data-driven insights to validate assumptions and improve products.
+
+Qualifications
+
+Minimum Qualifications
+
+    Programming & AI/ML Proficiency: Experience with Python, Java, or other modern object oriented languages, with exposure to AI/ML frameworks (TensorFlow, PyTorch, scikit-learn) and understanding of machine learning fundamentals
+
+    Software Engineering Experience: Proven development skills through internships, work experience, projects, or publications, including experience with APIs, cloud platforms, or AI-powered applications
+
+    Data & System Design: Strong understanding of data structures, statistical concepts, and familiarity with design patterns for modern systems including AI/ML architectural patterns (data pipelines, model serving, microservices)
+
+Preferred Qualifications
+
+    Emerging AI Technologies: Exposure to agentic AI systems, autonomous agents, modern AI protocols (MCP, function calling), and AI-assisted development approaches
+
 Compensation
 
-    $155K – $213K • Offers Equity
+At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than that of the typical market range, but in turn we expect to hire most candidates near this baseline. Base pay within the range is ultimately determined by a candidate's skills, expertise, or experience. In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
 
-The final compensation will depend on the location and level at which the candidate is hired.
-Overview
-Application
-About Ramp
+Zone A: $119,700 - $156,275
 
-At Ramp, we’re rethinking how modern finance teams function in the age of AI. We believe AI isn’t just the next big wave. It’s the new foundation for how business gets done. We’re investing in that future — and in the people bold enough to build it.
+Zone B: $108,000 - $141,000
 
-Ramp is a financial operations platform designed to save companies time and money. Our all-in-one solution combines payments, corporate cards, vendor management, procurement, travel booking, and automated bookkeeping with built-in intelligence to maximize the impact of every dollar and hour spent. But we’re not just building features powered by AI. We’re building a platform where agents can chase receipts, close books, flag risks, and surface insights. This enables teams to reclaim their time and reinvest in what matters.
+Zone C: $99,900 - $130,425
 
-More than 40,000 businesses, from family-owned farms to space startups, have saved $10B and 27.5M hours with Ramp. Founded in 2019, Ramp powers the fastest-growing corporate card and bill payment platform in America, and enables over $80 billion in purchases each year.
+This role may also be eligible for benefits, bonuses, commissions, and equity.
 
-Ramp’s investors include Thrive Capital, Sands Capital, General Catalyst, Founders Fund, Khosla Ventures, Sequoia Capital, Greylock, and Redpoint, among others, in addition to 100+ angel investors who have been founders or executives of leading companies.
+Please visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
 
-Ramp has been named to Fast Company’s Most Innovative Companies list and LinkedIn’s Top U.S. Startups for more than 3 years, as well as the Forbes Cloud 100, CNBC Disruptor 50, and TIME Magazine’s 100 Most Influential Companies.
+Benefits & Perks
 
-About the Role
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits.
 
-As an Android Engineer at Ramp, you’ll enhance our successful and rapidly growing mobile app. You will improve the core platform that thousands of businesses rely on while also building the future of automated finance by integrating AI and intelligent agents into the mobile experience. This is a chance to grow your skills on a proven product and define the next generation of fintech.
+About Atlassian
 
-Check out our Engineering Blog for more on our tech stack, mission and values!
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
 
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
 
-What You’ll Do
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
 
-    Design, build, and launch new products to Ramp’s Android app
+To learn more about our culture and hiring process, visit go.atlassian.com/crh.
+Apply for this job online
+Email this job to a friend
+Share on your newsfeed
+Application FAQs
 
-    Help establish engineering processes, tools, and systems that allow us to scale the code base and productivity
-
-    Conduct code reviews and set engineering standards
-
-    Work with Product and Design to identify key features that will make the app successful
-
-    Work alongside Product and other cross-functional teams to understand customer feedback and continuously improve our product
-
-What You Need
-
-    Minimum 1 year of experience in mobile development
-
-    Proficiency in Kotlin for Android development
-
-    Experience launching at least one mobile app and/or several features that reached a large number of users
-
-    Desire to work in a fast-paced environment, continuously grow, and master your craft
-
-    Strong understanding of mobile design patterns and best practices
-
-Nice to Haves
-
-    Experience with web apps (React, TypeScript)
-
-    Experience with backend technologies (Python, Flask, SQL, OpenAPI)
-
-    Experience with our mobile stack: Compose, MVVM, coroutines, flows, gradle, OpenAPI & Buildkite
-
-    Experience managing apps in the Google Play Console
-
-Benefits (for U.S.-based full-time employees)
-
-    100% medical, dental & vision insurance coverage for you
-
-        Partially covered for your dependents
-
-        One Medical annual membership
-
-    401k (including employer match on contributions made while employed by Ramp)
-
-    Flexible PTO
-
-    Fertility HRA (up to $5,000 per year)
-
-    WFH stipend to support your home office needs
-
-    Wellness stipend
-
-    Parental Leave
-
-    Relocation support to NYC or SF (as needed)
-
-    Pet insurance
-
-Referral Instructions
-
-If you are being referred for the role, please contact that person to apply on your behalf.
-
-Other notices
-
-Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
-
-Ramp Applicant Privacy Notice
-
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Powered by 
-
-Privacy PolicySecurityVulnerability Disclosure
+Software Powered by iCIMS
+www.icims.com
