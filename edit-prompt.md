@@ -20,7 +20,7 @@ format and constraints
 - remove irrelevant sections and low-signal bullets to meet the page constraint.
 - align terminology with job-posting.txt (e.g., match skill names, frameworks, and acronyms where truthful).
 - ensure chronological order
-- do not bold skills in the technical skills section of the resume
+- do not bold skills in the technical skills section of the resume, but keep the section headers bold
 - include achievement-oriented bullets with measurable impact where present in master-resume.tex.
 - all bullet points must follow the STAR methodology (Situation, Task, Action, Result). Each bullet should tell a concise, impact-driven story.
 - when generating bullet points:
