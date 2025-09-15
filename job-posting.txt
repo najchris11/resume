@@ -1,87 +1,138 @@
 
-Skip to Main Content
-Back to Atlassian Careers
-Returning Candidate?
-Log back in!
-Software Engineer, 2026 Graduate U.S.
-Job Locations US-WA-Seattle | US-WA-Seattle
-ID REQ-2025-3367
+Skip to main content
+careers
+Technology Development Program Associate - August 2026 page is loaded
+Technology Development Program Associate - August 2026
+Apply
 
-Category
-    Graduates 
+locations
+    Plano, TX
+    Richmond, VA
 
-Overview
+time type
+    Full time
 
-Working at Atlassian
+posted on
+    Posted Today
 
-Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+job requisition id
+    R218706
 
-Your Future Org
+Technology Development Program Associate - August 2026
 
-Atlassian’s Grad++ program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+Key Role Details
 
-This role is located in Seattle, WA. To qualify, you must be willing and able to work out of this location.
+    Full-time new hires for this role will start as a cohort in a rotational program in August 2026. 
 
-This position is not eligible for F1 and J1 students. It is not available for any work sponsorship.
-Responsibilities
+    This role is a full-time associate position within a 18-month rotational program, designed as a career accelerator to foster the next generation of leading talent.
 
-Responsibilities
+    Participation in the program requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One’s hybrid working model.
 
-    Build Production-Ready Features: Develop scalable code for Atlassian's products (Jira, Confluence, Trello) used by millions of teams worldwide, contributing to reliable systems that power global collaboration
+At this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).
 
-    Own End-to-End Projects: Take ownership of features from design through deployment, including implementation, testing, and monitoring in production environments
+Basic Qualifications
 
-    Collaborate in Agile Teams: Work closely with senior engineers, product managers, and designers using Agile methodologies and lean practices to deliver impactful solutions
-
-    Innovate with AI/ML Technologies: Contribute to AI-powered features and integrations, working with modern frameworks, agentic systems, and intelligent automation capabilities
-
-    Solve Complex Technical Problems: Tackle challenging issues related to distributed systems, data processing, and user experience optimization while using data-driven insights to validate assumptions and improve products.
-
-Qualifications
-
-Minimum Qualifications
-
-    Programming & AI/ML Proficiency: Experience with Python, Java, or other modern object oriented languages, with exposure to AI/ML frameworks (TensorFlow, PyTorch, scikit-learn) and understanding of machine learning fundamentals
-
-    Software Engineering Experience: Proven development skills through internships, work experience, projects, or publications, including experience with APIs, cloud platforms, or AI-powered applications
-
-    Data & System Design: Strong understanding of data structures, statistical concepts, and familiarity with design patterns for modern systems including AI/ML architectural patterns (data pipelines, model serving, microservices)
+    Currently has, or is in the process of obtaining, a Bachelor’s degree or higher with an expectation that you will complete your most recent full-time degree program by August 2026 or earlier
 
 Preferred Qualifications
 
-    Emerging AI Technologies: Exposure to agentic AI systems, autonomous agents, modern AI protocols (MCP, function calling), and AI-assisted development approaches
+    Bachelor’s degree or higher in a technical or quantitative discipline, including computer science, computer engineering, information systems, information technology, and mathematics
 
-Compensation
+    Strong analytical, quantitative, problem solving and conceptual skills
 
-At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than that of the typical market range, but in turn we expect to hire most candidates near this baseline. Base pay within the range is ultimately determined by a candidate's skills, expertise, or experience. In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
+    Strong interpersonal, leadership and communication skills
 
-Zone A: $119,700 - $156,275
+    Intermediate to advanced programming skills or experience in one or more of the following areas: Go, Kotlin, Python, Java, HTML, Swift, XML, JSON, UML, JavaScript, SQL, PL/SQL, Shell scripts, Objective C, C#, C/C++, Perl, .net, asp.net, Visual Basic
 
-Zone B: $108,000 - $141,000
+Technology Development Program Associate - August 2026
 
-Zone C: $99,900 - $130,425
+At Capital One, we consider ourselves the bank a technology company would build. We’re delivering best-in-class innovation so that our 65 million customers - and counting - can manage their finances with ease. Our reality and vision empower our engineers to use artificial intelligence and machine learning to transform real-time data, software, and algorithms into financial clarity. That’s what sets us apart - and we want you to join our journey.
 
-This role may also be eligible for benefits, bonuses, commissions, and equity.
+We’re all-in on the cloud and are a leader in the adoption of open source, RESTful APIs, microservices, and containers. We build our own products and release them with a speed and agility that allows us to get new customer experiences to market quickly. We’re going boldly where no bank has gone before. And, as a founder-led company, we’re inspired to make, break, do, and do good. So, let’s do something great together. Want to learn more? Check out the low-down on our high-tech -https://www.capitalone.com/tech
 
-Please visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+As a Software Engineer in the Technology Development Program, you may work on everything from customer-facing web and mobile applications using cutting-edge open source frameworks, to highly-available RESTful services, to back-end Java based systems using the hottest techniques in Big Data. Our engineers work in a “You Build It, You Own It" full stack environment supporting an exciting and innovative tech stack composed of: Java, React, Angular, Vue JS, C#, REST APIs, NoSQL database, Kubernetes, Terraform, Jenkins, Docker, AWS cloud, Scala, Clojure, Java, Haskell, C++, golang, Scheme, Common Lisp, and more! 
 
-Benefits & Perks
+You'll have the freedom to explore different roles, teams and technologies while zeroing in on the career that's right for you. Designed as a career accelerator to foster the next generation of leading talent, the TDP provides you the framework to develop world-class technical skills and gain a comprehensive understanding of technology.
 
-Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits.
+What to expect:
 
-About Atlassian
+    A challenging role where you will work collaboratively on agile teams with diverse and talented colleagues who are ready to take on new and unexpected challenges while building the next wave of engineering solutions
 
-At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+    Current, state of the art technology and tools, including working with a cloud-native stack, building on AWS using technologies like Kubernetes and Serverless.
 
-We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+    Technical mentorship and training through meetups, conferences, certifications and tech talks to build out your skillset on topics such iOS and Android, AWS, Open Source Big Data tools, Security, Voice Driven Applications and more
 
-To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
+    Exposure to Technology executives and a diverse network of skilled engineers
 
-To learn more about our culture and hiring process, visit go.atlassian.com/crh.
-Apply for this job online
-Email this job to a friend
-Share on your newsfeed
-Application FAQs
+    The opportunity to rotate roles and work with a variety of tools and technologies and to learn from different leaders throughout the Tech organization
 
-Software Powered by iCIMS
-www.icims.com
+    Fun social and volunteer events with other new hires
+
+    Incredible benefits like continuing education tuition reimbursement, 401K matching, discount associate stock purchase program and more
+
+Life at Capital One
+
+Our associates flourish in our open culture where diversity of ideas and collective wisdom prevail. We proudly bring together associates with different perspectives, backgrounds, and experiences to challenge the status quo. We’re focused on helping associates live well—physically, financially and emotionally. When you join us, we support you and those who are most important to you, offering full coverage for spouses, domestic partners, and dependents. We’ve designed our benefits program to be flexible, comprehensive and consistent across our organization. From health and fitness centers and discounts, to training and professional development programs—and much more—you’ll discover that Capital One is committed to helping you live your best life.
+
+Continuous Learning:
+
+We’re here to help you gain knowledge both on the job and in the classroom. Our engineers have access to continuous learning through our very own Tech College, a world-class learning hub that offers both online and in-person classes across six disciplines— Cloud Computing, Cyber Security, Data, Machine Learning & AI, Mobile and Software Engineering.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Plano, TX: $123,000 - $123,000 for Associate Software Engineer
+
+
+ 
+Richmond, VA: $123,000 - $123,000 for Associate Software Engineer
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.
+
+No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+About Us
+C1Logo 2025
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit.
+Follow Us
+
+© 2025 Workday, Inc. All rights reserved.
