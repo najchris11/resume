@@ -1,83 +1,289 @@
 
+Jobs
 
-    OpenAI
+    Our opportunity
+    Life at Stripe
+    Benefits
+    University
 
-Software Engineer, Applied Emerging Talent (2026)
-Location
+See open roles 
 
-San Francisco, Seattle
-Employment Type
+    Roles at Stripe
+    Role details
+
+Software Engineer, New Grad
+Who we are
+About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+About the team
+
+Stripe offers an interesting middle ground between joining a small startup and going to work for a multinational company. We have systems and processes optimized for early-career professionals. You will be in an environment that prizes rigor, discipline, and reliability—from our products, from our ways of working, and from our colleagues. You will learn how the best teams put together extremely reliable systems, and you will be responsible for operating these systems, with adequate backup when things get tough.
+What you’ll do
+
+As a company, we believe in end-to-end ownership of projects. For any given project, we have one person on point. While they don't necessarily have to do all the work themselves, it's their job to make sure all the work gets done. We launch betas and prototypes as early as we can. This helps ensure that we're building what users actually want. We contribute back to the community, often by building things we think are cool and by releasing open-source software.
+Responsibilities
+
+    Work on cross-functional projects, directly collaborating with other engineers
+    Give meaningful feedback on code reviews and technical designs
+    Ensure that the systems your team operates continue running well and can scale to meet the needs of our users
+    Build the skills to own a project from beginning to end, learning project management and technical leadership skills
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+
+    A Bachelor’s or Master’s degree in computer science or a directly related field, obtained by summer 2026, or equivalent work experience
+    Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
+    Experience from either previous internships or working collaboratively on multi-person coding projects (in a university or professional setting)
+    Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+
+Preferred qualifications
+
+    One or more areas of specialized knowledge balanced with general skills and knowledge, such as knowing more frontend technologies and, at a high level, how a service handles an HTTP request
+    Experience in code review practices, and an understanding of how to safely update production systems
+    Familiarity with navigating and managing work in large code bases
+
+In-office expectations
+Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This expectation may vary depending on role, team and location. For example, Stripes in our Bucharest, Romania site have an 80% in-office expectation, and those in Stripe Delivery Center roles in Mexico City, Mexico and Bengaluru, India work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our users and workflows, which the hiring manager will discuss. This approach helps strike a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility when possible.
+Pay and benefits
+
+The annual US base salary range for this role is $122,100 - $134,400. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.
+
+Office locations
+
+South San Francisco HQ, or Seattle
+
+Team
+
+University
+
+Job type
 
 Full time
-Location Type
+Apply for this role 
+Please find our California applicant personal information notice here.
+We look forward to hearing from you
+At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns. At Stripe, we welcome diverse perspectives and people who think rigorously and aren't afraid to challenge assumptions. Join us.
+Apply Now 
 
-Hybrid
-Department
+    AU Australia
+        English
+    AT Austria
+        Deutsch
+        English
+    BE Belgium
+        Nederlands
+        Français
+        Deutsch
+        English
+    BR Brazil
+        Português
+        English
+    BG Bulgaria
+        English
+    CA Canada
+        English
+        Français
+    HR Croatia
+        English
+        Italiano
+    CY Cyprus
+        English
+    CZ Czech Republic
+        English
+    DK Denmark
+        English
+    EE Estonia
+        English
+    FI Finland
+        English
+        Svenska
 
-Applied AI
-Deadline to Apply
+    FR France
+        Français
+        English
+    DE Germany
+        Deutsch
+        English
+    GI Gibraltar
+        English
+    GR Greece
+        English
+    HK Hong Kong
+        English
+        简体中文
+    HU Hungary
+        English
+    IN India
+        English
+    IE Ireland
+        English
+    IT Italy
+        Italiano
+        English
+    JP Japan
+        日本語
+        English
+    LV Latvia
+        English
+    LI Liechtenstein
+        Deutsch
+        English
 
-September 30, 2025 at 2:59 AM EDT
-Compensation
+    LT Lithuania
+        English
+    LU Luxembourg
+        Français
+        Deutsch
+        English
+    MY Malaysia
+        English
+        简体中文
+    MT Malta
+        English
+    MX Mexico
+        Español
+        English
+    NL Netherlands
+        Nederlands
+        English
+    NZ New Zealand
+        English
+    NO Norway
+        English
+    PL Poland
+        English
+    PT Portugal
+        Português
+        English
+    RO Romania
+        English
+    SG Singapore
+        English
+        简体中文
 
-    $170K • Offers Equity
+    SK Slovakia
+        English
+    SI Slovenia
+        English
+        Italiano
+    ES Spain
+        Español
+        English
+    SE Sweden
+        Svenska
+        English
+    CH Switzerland
+        Deutsch
+        Français
+        Italiano
+        English
+    TH Thailand
+        ไทย
+        English
+    AE United Arab Emirates
+        English
+    GB United Kingdom
+        English
 
-Overview
-Application
+    United States
+        English
+        Español
+        简体中文
 
-About the Team
+Products & pricing
 
-The Applied team works across research, engineering, product, and design to bring OpenAI’s technology to the world. We seek to learn from deployment and broadly distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. We aim to make our innovative tools globally accessible, transcending geographic, economic, or platform barriers. Our commitment is to facilitate the use of AI to enhance lives, fostered by rigorous insights into how people use our products.
+    Pricing
+    Atlas
+    Billing
+    Capital
+    Checkout
+    Climate
+    Connect
+    Data Pipeline
+    Elements
+    Financial Connections
+    Identity
+    Invoicing
+    Issuing
+    Link
+    Payments
+    Payment Links
+    Payouts
+    Radar
+    Revenue Recognition
+    Sigma
+    Tax
+    Terminal
+    Treasury
+    Verified
 
-About the Role
+Solutions
 
-We are seeking Software Engineers (Emerging Talent) to join our Applied Engineering team. You’ll work in a highly iterative, collaborative, fast-paced environment to bring our technology to millions of users around the world, and ensure it’s delivered with safety and reliability in mind. We value engineers who are self-starters, care deeply about the end user experience, and take pride in building products to solve customer needs.
+    Startups
+    Enterprises
+    SaaS
+    Platforms
+    Ecommerce
+    Marketplaces
+    Crypto
+    Creator economy
+    AI companies
+    Embedded finance
+    Global businesses
+    Finance automation
+    Insurance
+    Media and Entertainment
+    Nonprofits
+    Retail
 
-In this role, you will:
+Integrations & custom solutions
 
-    Own the development of new customer-facing ChatGPT and OpenAI API features and product experiences end-to-end
+    Stripe App Marketplace
+    Partner ecosystem
+    Professional services
 
-    Talk to users to understand their problems and design solutions to address them
+Developers
 
-    Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products
+    Documentation
+    API reference
+    API status
+    API changelog
+    Stripe Apps
 
-    Optimize applications for speed and scale
+Resources
 
-    Create a diverse and inclusive culture that makes all feel welcome.
+    Guides
+    Customer stories
+    Blog
+    Annual conference
+    Privacy & terms
+    Prohibited & restricted businesses
+    Licenses
+    Sitemap
+    Cookie settings
+    Your privacy choices
+    Coverage transparency
+    More resources
 
-Your background looks something like:
+Company
 
-    Bachelor's or Master’s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+    Jobs
+    Newsroom
+    Stripe Press
+    Contact sales
 
-    0-1 years of experience in software engineering or a relevant field
+Support
 
-    Proficiency with JavaScript, React, and some backend languages (we use Python)
+    Get support
+    Managed support plans
+    CA residents: +1 888 926 2289
 
-    Some experience with relational databases like Postgres/MySQL
+    Sign in  
 
-    Interest in AI/ML (direct experience not required)
+    © 2025 Stripe, Inc.
 
-    Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines
-
-About OpenAI
-
-OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
-
-We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
-
-For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
-
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
-
-To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
-
-We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
-
-OpenAI Global Applicant Privacy Policy
-
-At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
-
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Powered by 
-
-Privacy PolicySecurityVulnerability Disclosure
