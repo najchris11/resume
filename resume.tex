@@ -21,15 +21,6 @@
 
 \def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
 
-% Add text watermark to the bottom right of each page
-\usepackage{}
-\usepackage{xcolor}
-\AddToShipoutPictureBG{%
-  \AtTextLowerLeft{%
-    \raisebox{-1cm}{\makebox[\paperwidth][r]{\textsf{\small \textcolor[rgb]{0.8,0.8,0.8}{https://github.com/najchris11/resume v1.0.2}}\hspace{3cm}}}%
-  }%
-}
-
 % DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
 
 \newcommand{\lineunder} {
@@ -71,7 +62,7 @@
 \vspace{1mm}
 
     \textbf{The Ohio State University} \hfill Columbus, OH\\
-    \textit{Bachelor of Science in Computer Science and Engineering}\hfill Expected May 2026\\
+    \textit{Bachelor of Science in Computer Science and Engineering}\hfill Expected December 2025\\
     \vspace{2mm}
 
 
@@ -80,11 +71,9 @@
 \vspace{1mm}
 \begin{tabular}{ l l }
 
-    \textbf{Programming Languages:} Java, JavaScript, TypeScript, Python, C, C++, HTML, SQL \\
+    \textbf{Programming Languages:} Java, Python, Kotlin, Swift, TypeScript, JavaScript, C, C++, HTML \\
 
-    \textbf{Frameworks \& Tools:} React, Next.js, Express.js, PostgreSQL, Git, Docker, Linux/UNIX, Tailwind CSS \\
-
-    \textbf{Systems \& APIs:} RESTful APIs, Production Systems, Code Review Practices, CI/CD, Microservices \\
+    \textbf{Frameworks \& Tools:} Next.js, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, MongoDB, Jetpack Compose, SwiftUI  \\
 
     \textbf{Certifications:} AWS Cloud Practitioner, CodePath Advanced Technical Interview Prep, CodePath Intro to iOS Development  \\
 
@@ -101,55 +90,57 @@
     \vspace{-7pt}
     \begin{tightitemize} \itemsep -1mm
 
-            \item \textbf{Developed customer-facing features} for the Chase Android app serving \textbf{70M+ users}, rapidly learning Kotlin and Jetpack Compose while ensuring production system reliability and maintaining strict performance standards
-
-            \item \textbf{Collaborated cross-functionally} with designers, product managers, and senior engineers to refactor merchandising tile logic, participating in code reviews and implementing split flag-driven optimizations that resulted in \textbf{15\% improved customer interaction}
-
-            \item \textbf{Led team modernization effort} by transitioning legacy components to Jetpack Compose, establishing architectural patterns and reducing development time by \textbf{30\%} through reusable component libraries
+            \item Self-taught \textbf{Jetpack Compose} and \textbf{MVVM} patterns to accelerate onboarding and contribute to the \textbf{Chase Android app}, used by \textbf{70M+ users}
+            
+            \item Collaborated with developers to refactor existing merchandising tile logic and adapt \textbf{Android View} templates for a new tile design, improving customer interaction by \textbf{15\%}
+            
+            \item Led the transition of my team's package to \textbf{Jetpack Compose} by rewriting merchandising tiles and their bindings, pioneering Compose adoption and enabling more flexible layouts for future features
                     
     \end{tightitemize}
     \textit{Software Engineering Program Intern - Full Stack Web Development} \hfill \textsl{June 2024 - May 2025}\\
     \vspace{-7pt}
     \begin{tightitemize} \itemsep -1mm
 
-            \item \textbf{Architected and owned end-to-end development} of a React-based frontend to replace legacy JSP systems, ensuring \textbf{99\% production system uptime} for \textbf{1000+ global legal entities}, implementing comprehensive error handling, performance monitoring, and conducting thorough code reviews
+            \item Pioneered the modernization of an internal financial tool's UI, transitioning from an outdated \textbf{JSP} application to a responsive \textbf{React frontend}, designed to reduce task time by \textbf{50\%} for \textbf{1000+ global legal entities}
 
-            \item \textbf{Built scalable microfrontend architecture} using JavaScript, TypeScript, and RESTful API integration with real-time data synchronization, collaborating with international teams through code reviews, technical designs, and Agile methodologies to ensure system reliability and maintainability
+            \item Modularized the new frontend using a \textbf{microfrontend} architecture and existing \textbf{APIs}, enabling partial integration with the legacy system and supporting \textbf{99\% uptime}
                     
+    \end{tightitemize}
+    \vspace{-2mm}
+
+    \textbf{The Ohio State University Wexner Medical Center} \hfill \textsl{Columbus, OH}\\
+    
+    \textit{Web Content Editor} \hfill \textsl{May 2023 - Aug 2024}\\
+    \vspace{-7pt}
+    \begin{tightitemize} \itemsep -1mm
+        
+            \item Led the Comprehensive Cancer Center's transition to a new \textbf{CMS}, empowering organizations to manage their own content and enabling more frequent updates with streamlined workflows
+            
+            \item Revitalized webpages by designing and implementing a new \textbf{UI system}, achieving \textbf{100\% accessibility compliance} and significantly improving user engagement across the site
+
     \end{tightitemize}
     \vspace{-2mm}
 
 %==== Projects ====%
 \header[More at naj-dev.com]{Projects}
 
-    {\textbf{JPMC Global Hackathon – Internal Mobility Strategy (1st Place, Columbus)}} {\sl React, Python, OpenAI API, NLP} \hfill \textsl{June 2025} \\
+    {\textbf{JPMC Global Hackathon – Internal Mobility Strategy (1st Place, Columbus)}} {\sl React, Python, OpenAI API} \hfill \textsl{June 2025} \\
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
-        \item \textbf{Owned end-to-end project development} from concept to deployment, winning 1st place out of 64 teams by building a scalable AI-powered internal mobility assistant using collaborative development practices and modern system architecture
-        \item \textbf{Engineered production-ready backend system} in Python with NLP algorithms for resume-job matching, implementing proper code review processes and designing scalable systems architecture to handle enterprise-level data processing requirements
-        \item \textbf{Led cross-functional development team} building React frontend with real-time chatbot interface, managing technical designs and ensuring system reliability through comprehensive testing and deployment practices
+        \item \textbf{Won 1st place out of 64 teams} at JPMorgan Chase's 10th Annual Global Hackathon for building an internal mobility assistant to help employees discover and transition into better aligned roles
+        \item Built a \textbf{Python} backend system that uses \textbf{NLP techniques} to compare user resumes and job descriptions, scoring overlap to recommend best-fit internal roles for future \textbf{LLM integration}
+        \item Collaborated across \textbf{frontend, backend, and AI teams} to build a chatbot-driven platform with role-matching logic and automated outreach workflows
     \end{tightitemize}
 
     \vspace{-2mm}
-    {\textbf{JPMC Code for Good Hackathon - CTRL-R (1st Place, Pyramid CDC)}} {\sl React, Firebase, Tailwind CSS, PostgreSQL} \hfill \textsl{Nov 2023}\\
+    {\textbf{JPMC Code for Good Hackathon - CTRL-R (1st Place, Pyramid CDC)}} {\sl React, Firebase, Tailwind CSS} \hfill \textsl{Nov 2023}\\
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
     
-        \item \textbf{Secured first place through end-to-end system ownership}, developing a scalable digital literacy platform using \textbf{React and PostgreSQL} that engaged \textbf{1000+ users}, implementing robust database design and ensuring production system reliability
+        \item \textbf{Awarded challenge winner} for Pyramid CDC, a local non-profit focused on improving \textbf{digital literacy} in underserved Ohio communities, by developing a platform that engaged \textbf{1000+ residents}
 
-        \item \textbf{Architected multi-person collaborative codebase} with proper version control, code review practices, and team coordination, building scalable full-stack solution supporting concurrent users with optimized performance and system reliability
+        \item Specialized in configuring the \textbf{Firebase store and authentication}, integrating it into the codebase while collaborating with team members to create a \textbf{fully functional, user-friendly platform}
 
-    \end{tightitemize}
-    \vspace{-2mm}
-
-    {\textbf{HDNCHQ Server}} {\sl Docker, Linux, NGINX, PostgreSQL} \hfill \textsl{2019 - Present} \\
-    \vspace{-2mm}
-    \begin{tightitemize} \itemsep -1mm
-
-        \item \textbf{Built and maintained production-grade infrastructure} using Docker containerization and NGINX load balancing, improving system uptime from \textbf{40\% to 95\%} while supporting dozens of concurrent users through scalable architecture design
-
-        \item \textbf{Implemented reliable systems operations} with comprehensive monitoring, backup strategies, and performance optimization, demonstrating ability to maintain critical infrastructure and troubleshoot complex production issues independently
-        
     \end{tightitemize}
     \vspace{-2mm}
 
@@ -161,7 +152,7 @@
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
     
-        \item \textbf{Coordinate organizational communications} for 100+ members across weekly newsletters, website management, and social media strategy, while collaborating with 150 international chapters to plan signature events and drive community engagement
+        \item Oversee meeting documentation, coordinate weekly newsletters, and assist in planning events like NSBE Week, driving communication for \textbf{100+ members} and collaborating with \textbf{150 chapters} internationally
         
     \end{tightitemize}
     \vspace{-1mm}
@@ -170,9 +161,20 @@
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
     
-        \item \textbf{Participate in technical interview preparation} with industry leaders from Adobe and JPMorgan Chase, while mentoring peers in software engineering career development and technical skill building
+        \item Participate in \textbf{technical and behavioral interview workshops} with industry leaders like Adobe and JP Morgan Chase, and mentor peers
         
     \end{tightitemize}
     \vspace{-1mm}
+
+\header{Additional Information}
+\vspace{1mm}
+\begin{tabular}{ l l }
+
+    \textbf{Organizations/Affiliations:} Minority Collegiate Outreach and Support Team Mentor, Minorities in Tech Member, BOLD at JPMC \\
+
+    \textbf{Languages:} Fluent in French \\
+
+\end{tabular}
+\vspace{2mm}
 
 \end{document}

@@ -1,289 +1,182 @@
+Duolingo Careers
+Pittsburgh, PA
+Software Engineer, New Graduate
 
-Jobs
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that’s where you come in!
 
-    Our opportunity
-    Life at Stripe
-    Benefits
-    University
+Duolingo is the world's most popular learning app. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
 
-See open roles 
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+About the role
+ 
+icon-brain-16px  You will...
 
-    Roles at Stripe
-    Role details
+    Contribute to full-stack software projects by developing, testing, and maintaining features and services.
+    Develop, release, and maintain services and/or infrastructure
+    Lead individual project priorities, deadlines, and deliverables
+    Contribute to code reviews and collaborate across teams to ensure quality and scalability
 
-Software Engineer, New Grad
-Who we are
-About Stripe
+ 
+icon-check-16px  You have...
 
-Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
-About the team
+    Graduating in Fall 2025 or Spring 2026
+    Pursuing a B.S. or M.S. degree in Computer Science or related technical field (i.e. math, physics or data science)
+    Programming experience in one or more of the following languages: Java, Python, Kotlin or Swift.
+    Dedication to our mission of universally available education
+    Ability to relocate to Pittsburgh, PA
 
-Stripe offers an interesting middle ground between joining a small startup and going to work for a multinational company. We have systems and processes optimized for early-career professionals. You will be in an environment that prizes rigor, discipline, and reliability—from our products, from our ways of working, and from our colleagues. You will learn how the best teams put together extremely reliable systems, and you will be responsible for operating these systems, with adequate backup when things get tough.
-What you’ll do
+ 
+icon-star-16px  Exceptional candidates will have...
 
-As a company, we believe in end-to-end ownership of projects. For any given project, we have one person on point. While they don't necessarily have to do all the work themselves, it's their job to make sure all the work gets done. We launch betas and prototypes as early as we can. This helps ensure that we're building what users actually want. We contribute back to the community, often by building things we think are cool and by releasing open-source software.
-Responsibilities
+    A GPA of 3.5+
+    A Duolingo streak
 
-    Work on cross-functional projects, directly collaborating with other engineers
-    Give meaningful feedback on code reviews and technical designs
-    Ensure that the systems your team operates continue running well and can scale to meet the needs of our users
-    Build the skills to own a project from beginning to end, learning project management and technical leadership skills
+ 
 
-Who you are
+👀 What you can expect…
 
-We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
-Minimum requirements
+    Close support from your mentor and your team
+    Working on features and projects that will have real impact for our learners and internal users
+    A fun, mission-driven environment, where you’ll have lots of opportunities to grow as an engineer and make meaningful connections with your colleagues
+    Past Projects include: 
+        Adding Hindi and Indonesian to the iOS app
+        Launching new exercise types
+        Building and owning new microservices
+        Optimizing purchase flows and subscription features
+        Adding delightful animations to the core experience
+        Porting large features to new platforms (iOS, Android, web)
 
-    A Bachelor’s or Master’s degree in computer science or a directly related field, obtained by summer 2026, or equivalent work experience
-    Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
-    Experience from either previous internships or working collaboratively on multi-person coding projects (in a university or professional setting)
-    Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+ 
 
-Preferred qualifications
+♥️ Why you’ll love working here…
 
-    One or more areas of specialized knowledge balanced with general skills and knowledge, such as knowing more frontend technologies and, at a high level, how a service handles an HTTP request
-    Experience in code review practices, and an understanding of how to safely update production systems
-    Familiarity with navigating and managing work in large code bases
+    Language learning opportunities
+    Catered in-house lunches and breakfast
+    Company-wide Hackathon
+    PTO and company holidays
+    Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
 
-In-office expectations
-Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This expectation may vary depending on role, team and location. For example, Stripes in our Bucharest, Romania site have an 80% in-office expectation, and those in Stripe Delivery Center roles in Mexico City, Mexico and Bengaluru, India work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our users and workflows, which the hiring manager will discuss. This approach helps strike a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility when possible.
-Pay and benefits
+ 
 
-The annual US base salary range for this role is $122,100 - $134,400. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+Take a peek at how we care for our employees' holistic well-being with our benefits here.
 
-Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
 
-Office locations
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
 
-South San Francisco HQ, or Seattle
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.
 
-Team
+Sign up for job alerts here.
 
-University
+We post a multi-level salary range for all of our roles.
 
-Job type
+This is not inclusive of the rest of our awesome portfolio that includes equity compensation and world-class benefits. Our salary ranges are the same for all US locations. Your recruiter can share more details about the range for a specific level during the hiring process. The actual salary within the range is determined by many factors including but not limited to, skills, experience, education, and internal equity.
+Salary Range:
+$123,300—$166,800 USD
+Apply for this job
 
-Full time
-Apply for this role 
-Please find our California applicant personal information notice here.
-We look forward to hearing from you
-At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns. At Stripe, we welcome diverse perspectives and people who think rigorously and aren't afraid to challenge assumptions. Join us.
-Apply Now 
+* indicates a required field
+First Name*
+Last Name*
+Email*
+Phone*
+Location (city)*
 
-    AU Australia
-        English
-    AT Austria
-        Deutsch
-        English
-    BE Belgium
-        Nederlands
-        Français
-        Deutsch
-        English
-    BR Brazil
-        Português
-        English
-    BG Bulgaria
-        English
-    CA Canada
-        English
-        Français
-    HR Croatia
-        English
-        Italiano
-    CY Cyprus
-        English
-    CZ Czech Republic
-        English
-    DK Denmark
-        English
-    EE Estonia
-        English
-    FI Finland
-        English
-        Svenska
+Resume/CV*
+Accepted file types: pdf, doc, docx, txt, rtf
+Cover Letter
+Accepted file types: pdf, doc, docx, txt, rtf
+Preferred First Name*
+How do you pronounce your name? (e.g., 'An-na' or 'Ah-na')*
+What is your expected graduation timeline?*
+Select...
+Are you willing to work from the office location of the job?*
+Select...
+Undergraduate GPA*
+Do you use Duolingo?*
+Select...
+Why are you interested in Duolingo?*
+How will your personal experience make an impact at Duolingo?*
+Will you now, or in the future, require sponsorship (i.e. H-1B visa, etc.) to legally work in the U.S.?*
+Select...
+If so, are you eligible or currently in a period of Optional Practical Training (OPT)?*
+Select...
+After the OPT, are you eligible for a 24-month OPT extension or are currently in a 24-month OPT extension based upon a degree from a qualifying U.S. institution in Science, Technology, Engineering, or Mathematics after the Optional Practical Training (OPT)?*
+Select...
+How has AI changed the way you approach your work?*
+How would you describe your current level of experience using AI tools or technologies in your work? Select the option that best fits.*
+Select...
+Education
+School*
 
-    FR France
-        Français
-        English
-    DE Germany
-        Deutsch
-        English
-    GI Gibraltar
-        English
-    GR Greece
-        English
-    HK Hong Kong
-        English
-        简体中文
-    HU Hungary
-        English
-    IN India
-        English
-    IE Ireland
-        English
-    IT Italy
-        Italiano
-        English
-    JP Japan
-        日本語
-        English
-    LV Latvia
-        English
-    LI Liechtenstein
-        Deutsch
-        English
+Degree*
 
-    LT Lithuania
-        English
-    LU Luxembourg
-        Français
-        Deutsch
-        English
-    MY Malaysia
-        English
-        简体中文
-    MT Malta
-        English
-    MX Mexico
-        Español
-        English
-    NL Netherlands
-        Nederlands
-        English
-    NZ New Zealand
-        English
-    NO Norway
-        English
-    PL Poland
-        English
-    PT Portugal
-        Português
-        English
-    RO Romania
-        English
-    SG Singapore
-        English
-        简体中文
+Discipline*
 
-    SK Slovakia
-        English
-    SI Slovenia
-        English
-        Italiano
-    ES Spain
-        Español
-        English
-    SE Sweden
-        Svenska
-        English
-    CH Switzerland
-        Deutsch
-        Français
-        Italiano
-        English
-    TH Thailand
-        ไทย
-        English
-    AE United Arab Emirates
-        English
-    GB United Kingdom
-        English
+End date month*
+End date year*
+Voluntary Self Identification
 
-    United States
-        English
-        Español
-        简体中文
+To fulfill our mission of developing the best education in the world and making it universally available, we seek exceptional talent for every role. We recruit candidates from diverse backgrounds. To help us evaluate our hiring process for equitability, we invite U.S. applicants to share their demographic information. Participation in this survey is voluntary and confidential. Participation will not affect any hiring decisions or outcomes.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), & learning
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+About us
 
-Products & pricing
+    Courses
+    Mission
+    Approach
+    Efficacy
+    Research
+    Brand guidelines
+    Press
+    Investors
+    Contact us
 
-    Pricing
-    Atlas
-    Billing
-    Capital
-    Checkout
-    Climate
-    Connect
-    Data Pipeline
-    Elements
-    Financial Connections
-    Identity
-    Invoicing
-    Issuing
-    Link
-    Payments
-    Payment Links
-    Payouts
-    Radar
-    Revenue Recognition
-    Sigma
-    Tax
-    Terminal
-    Treasury
-    Verified
+Products
 
-Solutions
+    Duolingo
+    Duolingo English Test
+    Duolingo for Business
+    Super Duolingo
+    Store
 
-    Startups
-    Enterprises
-    SaaS
-    Platforms
-    Ecommerce
-    Marketplaces
-    Crypto
-    Creator economy
-    AI companies
-    Embedded finance
-    Global businesses
-    Finance automation
-    Insurance
-    Media and Entertainment
-    Nonprofits
-    Retail
+Apps
 
-Integrations & custom solutions
+    Duolingo for Desktop
+    Duolingo for Android
+    Duolingo for iOS
 
-    Stripe App Marketplace
-    Partner ecosystem
-    Professional services
+Help and support
 
-Developers
+    Duolingo FAQs
+    English Test FAQs
+    Status
 
-    Documentation
-    API reference
-    API status
-    API changelog
-    Stripe Apps
+Privacy and terms
 
-Resources
+    Community guidelines
+    Terms
+    Privacy
+    Respecting your “do not sell my personal information” rights
 
-    Guides
-    Customer stories
+Social
+
     Blog
-    Annual conference
-    Privacy & terms
-    Prohibited & restricted businesses
-    Licenses
-    Sitemap
-    Cookie settings
-    Your privacy choices
-    Coverage transparency
-    More resources
+    Instagram
+    Facebook
+    X
+    YouTube
+    TikTok
+    LinkedIn
 
-Company
-
-    Jobs
-    Newsroom
-    Stripe Press
-    Contact sales
-
-Support
-
-    Get support
-    Managed support plans
-    CA residents: +1 888 926 2289
-
-    Sign in  
-
-    © 2025 Stripe, Inc.
-
+©2025 Duolingo. All rights reserved.
