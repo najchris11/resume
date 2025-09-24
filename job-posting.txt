@@ -1,182 +1,122 @@
-Duolingo Careers
-Pittsburgh, PA
-Software Engineer, New Graduate
 
-Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that’s where you come in!
+Skip to main content
+Pinterest Careers
 
-Duolingo is the world's most popular learning app. Beyond our core learning product, we also offer English proficiency testing with the Duolingo English Test, and are bringing new subjects into the Duolingo app, where people can develop their Math and Music skills.
+Careers
 
-We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
-About the role
- 
-icon-brain-16px  You will...
+    Jobs
+    Locations
+    Departments
+    Early Career
+    Inside Pinterest
+    Interviewing
 
-    Contribute to full-stack software projects by developing, testing, and maintaining features and services.
-    Develop, release, and maintain services and/or infrastructure
-    Lead individual project priorities, deadlines, and deliverables
-    Contribute to code reviews and collaborate across teams to ensure quality and scalability
+Keywords:
+Location:
+Software Engineer University Grad
 
- 
-icon-check-16px  You have...
+    San Francisco / Palo Alto / Seattle University Regular 
 
-    Graduating in Fall 2025 or Spring 2026
-    Pursuing a B.S. or M.S. degree in Computer Science or related technical field (i.e. math, physics or data science)
-    Programming experience in one or more of the following languages: Java, Python, Kotlin or Swift.
-    Dedication to our mission of universally available education
-    Ability to relocate to Pittsburgh, PA
+a screenshot of a social media post
 
- 
-icon-star-16px  Exceptional candidates will have...
+Share
 
-    A GPA of 3.5+
-    A Duolingo streak
+Description
 
- 
+About Pinterest:
 
-👀 What you can expect…
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
 
-    Close support from your mentor and your team
-    Working on features and projects that will have real impact for our learners and internal users
-    A fun, mission-driven environment, where you’ll have lots of opportunities to grow as an engineer and make meaningful connections with your colleagues
-    Past Projects include: 
-        Adding Hindi and Indonesian to the iOS app
-        Launching new exercise types
-        Building and owning new microservices
-        Optimizing purchase flows and subscription features
-        Adding delightful animations to the core experience
-        Porting large features to new platforms (iOS, Android, web)
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
 
- 
+We’re looking for inquisitive, collaborative university grads to join our engineering teams. Working closely with product, design, data, and back‑end engineers, you’ll learn how large‑scale systems operate and play a meaningful role in building new technologies, features, and tools. Expect real projects, supportive teammates, and plenty of opportunities to explore ideas that make a difference for our teams and Pinners.
 
-♥️ Why you’ll love working here…
+What you’ll do:
 
-    Language learning opportunities
-    Catered in-house lunches and breakfast
-    Company-wide Hackathon
-    PTO and company holidays
-    Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+    Deliver code that is well-documented, tested, and operable
+    Independently take ownership over the completion and quality of your tasks and project
+    Execute scoped technical tasks end-to-end in collaboration with cross-functional Pinployees to help build the future of Pinterest
+    Effectively and proactively communicate new ideas and opinions with candor as you grow both professionally and personally through learning and development opportunities
 
- 
+What we're looking for:
 
-Take a peek at how we care for our employees' holistic well-being with our benefits here.
+    Obtained a Bachelor's or Master's in Computer Science or related technical field by June 2026
+    Ability to start between January 2026 and September 2026
+    At least one year of programming experience in an object-oriented language
+    Experience in previous software engineering internships
+    Proficiency in a dynamic programming language such as Python
+    Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms.
+    Strong communication skills and product sense
+    Passion for Pinterest and the ability to manage ambiguity and continually learn from your experiences
 
-We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+In-Office Requirement:
 
-Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+    We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.
+    This role will need to be in the office for in-person collaboration [1-2 times per week] and therefore needs to be in a commutable distance from one of the following offices [San Francisco, Palo Alto, Seattle].
 
-By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.
 
-Sign up for job alerts here.
+Relocation Statement:
 
-We post a multi-level salary range for all of our roles.
+    This position may be eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
 
-This is not inclusive of the rest of our awesome portfolio that includes equity compensation and world-class benefits. Our salary ranges are the same for all US locations. Your recruiter can share more details about the range for a specific level during the hiring process. The actual salary within the range is determined by many factors including but not limited to, skills, experience, education, and internal equity.
-Salary Range:
-$123,300—$166,800 USD
-Apply for this job
+#LI-HYBRID
 
-* indicates a required field
-First Name*
-Last Name*
-Email*
-Phone*
-Location (city)*
+#LI-FILS
 
-Resume/CV*
-Accepted file types: pdf, doc, docx, txt, rtf
-Cover Letter
-Accepted file types: pdf, doc, docx, txt, rtf
-Preferred First Name*
-How do you pronounce your name? (e.g., 'An-na' or 'Ah-na')*
-What is your expected graduation timeline?*
-Select...
-Are you willing to work from the office location of the job?*
-Select...
-Undergraduate GPA*
-Do you use Duolingo?*
-Select...
-Why are you interested in Duolingo?*
-How will your personal experience make an impact at Duolingo?*
-Will you now, or in the future, require sponsorship (i.e. H-1B visa, etc.) to legally work in the U.S.?*
-Select...
-If so, are you eligible or currently in a period of Optional Practical Training (OPT)?*
-Select...
-After the OPT, are you eligible for a 24-month OPT extension or are currently in a 24-month OPT extension based upon a degree from a qualifying U.S. institution in Science, Technology, Engineering, or Mathematics after the Optional Practical Training (OPT)?*
-Select...
-How has AI changed the way you approach your work?*
-How would you describe your current level of experience using AI tools or technologies in your work? Select the option that best fits.*
-Select...
-Education
-School*
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
 
-Degree*
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+US based applicants only
+$124,060—$175,140 USD
 
-Discipline*
+Our Commitment to Inclusion:
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
+a person in a purple sweater
+University
 
-End date month*
-End date year*
-Voluntary Self Identification
+Similar Jobs
 
-To fulfill our mission of developing the best education in the world and making it universally available, we seek exceptional talent for every role. We recruit candidates from diverse backgrounds. To help us evaluate our hiring process for equitability, we invite U.S. applicants to share their demographic information. Participation in this survey is voluntary and confidential. Participation will not affect any hiring decisions or outcomes.
-How would you describe your gender identity? (mark all that apply)
-Select...
-How would you describe your racial/ethnic background? (mark all that apply)
-Select...
-How would you describe your sexual orientation? (mark all that apply)
-Select...
-Do you identify as transgender?
-Select...
-Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), & learning
-Select...
-Are you a veteran or active member of the United States Armed Forces?
-Select...
-About us
+Here is a selection of our related job opportunities:
+Software Engineer Intern 2026
 
-    Courses
-    Mission
-    Approach
-    Efficacy
-    Research
+    San Francisco + 1 other locations University 
+
+Software Engineer Intern 2026
+
+    Seattle University 
+
+Machine Learning Engineer I, Monetization Engineering
+
+    San Francisco + 2 other locations Engineering 
+
+a group of people sitting on a couch Play video
+Life at Pinterest
+
+Meet employees from our global offices and find out why they chose to continue their career journeys at Pinterest and be a part of the magic of bringing our platform to life.
+two women standing in a room
+Join our talent community
+
+Whether you apply to a role today or in the future, stay up-to-date on Pinterest news, events and job openings by signing up for our Talent Community. We’ll send you newsletters you won’t want to miss.
+Pinterest Careers
+
+    What's Pinterest
+    Help Center
     Brand guidelines
-    Press
-    Investors
-    Contact us
+    Newsroom
+    For businesses
+    For developers
+    For investors
+    Engineering Blog
+    Pinterest Labs
+    Copyright & Trademark
+    Terms of service
+    Privacy policy
+    Personalized ads
+    Candidate Privacy Notice
 
-Products
+    Sitemap Cookie declaration 
 
-    Duolingo
-    Duolingo English Test
-    Duolingo for Business
-    Super Duolingo
-    Store
+We’re looking for all kinds of people.
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See the Pinterest EEO Policy Statement for more information regarding U.S. roles. If you require medical or religious accommodation during the job application process, please complete this form for support.
 
-Apps
-
-    Duolingo for Desktop
-    Duolingo for Android
-    Duolingo for iOS
-
-Help and support
-
-    Duolingo FAQs
-    English Test FAQs
-    Status
-
-Privacy and terms
-
-    Community guidelines
-    Terms
-    Privacy
-    Respecting your “do not sell my personal information” rights
-
-Social
-
-    Blog
-    Instagram
-    Facebook
-    X
-    YouTube
-    TikTok
-    LinkedIn
-
-©2025 Duolingo. All rights reserved.
+© Pinterest 2025, all rights reserved.
