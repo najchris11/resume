@@ -1,120 +1,50 @@
+Software Engineer, Early Career, Campus
+corporate_fare
+Google
+place
+Mountain View, CA, USA; Cambridge, MA, USA; +8 more
+info_outline
+XThe application window will be open until at least October 17, 2025. This opportunity will remain online based on business needs which may be before or after specified date.
 
-LinkedIn logo
-Software Engineer Intern, Undergraduate - Summer 2026 (Mountain View, CA)
+Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Cambridge, MA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; New York, NY, USA; Pittsburgh, PA, USA; San Bruno, CA, USA; Seattle, WA, USA; San Jose, CA, USA; Sunnyvale, CA, USA.
 
-    Mountain View, CA
-    Full-time
-    Workplace Type: Hybrid
-    Career Track & Grade: ICX/X
-    Department: Engineering
+Minimum qualifications:
 
-Company Description
+    Bachelor's degree in Computer Science, a similar technical field of study, or equivalent practical experience.
+    Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g. open-source coding).
+    Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
 
-LinkedIn is the world’s largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We’re also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that’s built on trust, care, inclusion, and fun – where everyone can succeed.
 
-Join us to transform the way the world works.
-Job Description
+Preferred qualifications:
 
-This internship role will be based out of Headquarters in Mountain View, California.
+    Master's degree in Computer Science or a related technical field.
+    Experience working with one or more of the following: web or mobile application development, Unix/Linux environments, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, or security software development.
+    Experience developing accessible technologies.
+    Ability to learn other coding languages as needed.
 
-At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team.
+About the job
 
-Want to work on advanced information-retrieval algorithms, massive scalability infrastructure + storage solutions, and large-scale applications for users on web and mobile devices? LinkedIn is looking for Undergraduate Software Engineering Interns who want to learn, grow, and work with some of the brightest technical talent in the world.
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
 
-With the changing landscape of engineering, we are looking to help mold the next wave of engineering talent that will require data-heavy, platform and application skills. We're building the next-generation data infrastructure, including storage, streams, media and analytics platforms. Help us scale LinkedIn infrastructure to handle massive data growth across the LinkedIn ecosystem as we experience dramatic growth in membership and products. You will utilize distributed systems and algorithms and perfect your strong systems orientation skills (multi-threading, concurrency, scalability, performance). You will understand frameworks for caching, queuing, and distributed data storage, and be excited to work on cutting edge open-source systems.
+As a key member of a small and versatile team, you design, test, deploy and maintain software solutions.
 
-Candidates must be currently enrolled in an undergraduate degree program, with an expected graduation date December 2026 or later.
+Google is an engineering company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, engineers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google engineers are changing the world one technological achievement after another.
 
-Our internships are 12 weeks in length and will have the option of two intern sessions:
-• May 26th, 2026 - August 14th, 2026
-• June 15th, 2026 - September 4th, 2026
+The US base salary range for this full-time position is $118,000-$170,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+Responsibilities
 
-Responsibilities:
-• Scale distributed applications, make architectural tradeoffs applying synchronous and
-asynchronous design patterns, write code, and deliver with speediness and quality.
-• Develop multi-tier scalable, high-volume performance, and reliable user-centric application
-that operate 24x7.
-• Produce high quality software that is unit tested, code reviewed, and checked in regularly for
-continuous integration.
-Qualifications
+    Design, develop, test, deploy, maintain, and improve software.
+    Manage project priorities, deadlines, and deliverables.
+    Take on tasks as requested and follow through to completion despite roadblocks or distractions.
 
-Basic Qualifications:
-• Currently pursuing a B.A./B.S. Degree in Computer Science, or related technical field and
-returning to the program after the completion of the internship.
-• Programming experience in one or more of the following languages: Java, C/C++, C#,
-Python, or Ruby.
-• Knowledge of core computer science concepts such as object-oriented design, algorithm
-design, data structures, problem-solving, and complexity analysis
+Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's Applicant and Candidate Privacy Policy.
 
-Preferred Qualifications:
-• Experience working in a short-cycle, agile, iterative development team.
-• Knowledge of computer science, with strong competencies in data structures, algorithms,
-software design, and object-oriented skills.
+Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy, Know your rights: workplace discrimination is illegal, Belonging at Google, and How we hire.
 
-Suggested Skills:
-• Distributed Systems
-• Operating Systems
-• Cloud Computing
+If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.
 
-As part of the application process for this role, after an initial qualifications review, candidates are required to successfully complete the HackerRank online code challenge. Instructions for completion of the code challenge will be sent to you if your application is selected to move forward in the process.
+Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting.
 
-LinkedIn is committed to fair and equitable compensation practices.
-
-The pay range for this role is $45 to $55. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
-
-The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For more information, visit https://careers.linkedin.com/benefits.
-Additional Information
-
-Equal Opportunity Statement 
-
-We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
-
-LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.
-
-If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at accommodations@linkedin.com and describe the specific accommodation requested for a disability-related limitation.
-
-Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:
-
-    Documents in alternate formats or read aloud to you
-    Having interviews in an accessible location
-    Being accompanied by a service dog
-    Having a sign language interpreter present for the interview
-
-A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.
-
-LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.
-
-San Francisco Fair Chance Ordinance ​
-
-Pursuant to the San Francisco Fair Chance Ordinance, LinkedIn will consider for employment qualified applicants with arrest and conviction records.
-
-Pay Transparency Policy Statement ​
-
-As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency.
-
-Global Data Privacy Notice for Job Candidates ​
-
-Please follow this link to access the document that provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://legal.linkedin.com/candidate-portal.
-Privacy Policy
-share this job
-
-Other jobs at LinkedIn
-
-    Manager, Software Engineering - Verification
-
-    Mountain View, CA
-
-    Staff Software Engineer, Networking
-
-    Mountain View, CA
-
-    Software Engineer, AI Platform
-
-    Mountain View, CA
-    Show all jobs
-
-Software Engineer Intern, Undergraduate - Summer 2026 (Mountain View, CA)
-
-    Mountain View, CA
-    Full-time
-
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes.
