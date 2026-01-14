@@ -1,0 +1,41 @@
+name: Build Master Resume
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'master-resume.tex'
+      - '.github/workflows/master-resume.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build_master_resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Master Resume PDF
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: master-resume.tex
+
+      - name: Prepare artifact for deployment
+        run: |
+          mkdir public
+          mv master-resume.pdf public/
+
+      - name: Deploy to resume-builds branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: resume-builds
+          publish_dir: ./public
+          force_orphan: true
+          full_commit_message: "Update master-resume.pdf"
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
