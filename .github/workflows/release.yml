@@ -3,6 +3,8 @@ name: Auto Build and Release
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'resume.tex'
 
 permissions:
   contents: write
@@ -22,8 +24,18 @@ jobs:
         with:
           root_file: resume.tex
 
-      - name: Create release tag and release
-        id: create_release
+      - name: Check resume is exactly one page
+        run: |
+          sudo apt-get install -y poppler-utils -qq
+          PAGE_COUNT=$(pdfinfo resume.pdf | grep "Pages:" | awk '{print $2}')
+          echo "Page count: $PAGE_COUNT"
+          if [ "$PAGE_COUNT" -ne 1 ]; then
+            echo "ERROR: resume.pdf has $PAGE_COUNT pages, expected 1."
+            exit 1
+          fi
+
+      - name: Compute release tag and title
+        id: tag
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -31,12 +43,10 @@ jobs:
             const owner = context.repo.owner;
             const repo = context.repo.repo;
 
-            // Get the latest commit message from this push
             const headCommit = context.payload.head_commit;
             const fullMsg = headCommit ? headCommit.message || "" : "";
             const title = (fullMsg.split("\n")[0] || "").trim() || "New release";
 
-            // Fetch all releases and find the highest v0.0.x tag
             const releases = await github.paginate(github.rest.repos.listReleases, {
               owner, repo, per_page: 100
             });
@@ -51,20 +61,14 @@ jobs:
 
             const nextNum = (tagNums.length ? Math.max(...tagNums) : 0) + 1;
             const nextTag = `v0.0.${nextNum}`;
-
-            // Create a lightweight tag pointing to the current commit SHA
             const sha = context.sha;
 
-            // Ensure tag doesn't already exist (handle race conditions)
             async function ensureTag(baseTag, attempt = 0) {
               const candidate = attempt === 0 ? baseTag : `v0.0.${nextNum + attempt}`;
               try {
-                // Check if ref exists
                 await github.rest.git.getRef({ owner, repo, ref: `tags/${candidate}` });
-                // If it exists, try the next one
                 return ensureTag(baseTag, attempt + 1);
               } catch (e) {
-                // 404 means it doesn't exist; create it
                 if (e.status === 404) {
                   await github.rest.git.createRef({
                     owner, repo,
@@ -78,29 +82,16 @@ jobs:
             }
 
             const finalTag = await ensureTag(nextTag);
+            core.info(`Created tag ${finalTag} with title "${title}"`);
+            return { tag_name: finalTag, title };
 
-            // Create the release with the title from the commit message
-            const release = await github.rest.repos.createRelease({
-              owner, repo,
-              tag_name: finalTag,
-              name: title,
-              generate_release_notes: true,
-              draft: false
-            });
+      - name: Rename PDF for release
+        run: cp resume.pdf ${{ github.actor }}_resume.pdf
 
-            core.info(`Created release ${release.data.html_url} with tag ${finalTag} and title "${title}"`);
-            
-            return {
-              upload_url: release.data.upload_url,
-              tag_name: finalTag
-            };
-
-      - name: Upload PDF to release
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create release and upload PDF
+        uses: softprops/action-gh-release@v2
         with:
-          upload_url: ${{ fromJson(steps.create_release.outputs.result).upload_url }}
-          asset_path: resume.pdf
-          asset_name: ${{ github.actor }}_resume.pdf
-          asset_content_type: application/pdf
+          tag_name: ${{ fromJson(steps.tag.outputs.result).tag_name }}
+          name: ${{ fromJson(steps.tag.outputs.result).title }}
+          generate_release_notes: true
+          files: ${{ github.actor }}_resume.pdf

@@ -5,6 +5,10 @@ inputs
 - augmented-resume.tex: secondary resume, is less polished/reliable. must never be edited or overwritten
 - job-posting.txt: plain text role description that changes per run.
 
+preprocessing
+- before tailoring, mentally discard all boilerplate from job-posting.txt: navigation menus, footer links, product/solution catalogs, country and language lists, legal notices, salary ranges, office location lists, and any content unrelated to the role itself.
+- extract and work only with: job title, team description, responsibilities, minimum requirements, preferred qualifications, and any explicitly mentioned technologies, languages, or frameworks.
+
 task
 - read and parse master-resume.tex and augmented-resume.tex to understand sections, macros, and content.
 - read job-posting.txt and identify the employer’s must-haves, nice-to-haves, and keywords.
@@ -28,7 +32,7 @@ format and constraints
   • each bullet must fill whole lines: each line is ~105 characters wide, with a tolerance of ±10% (≈95–115 chars).  
   • acceptable lengths are exact multiples of this line width (1 full line, 2 full lines, etc.).  
   • keep in mind that bolded text, wider glyphs (e.g., “W”), and LaTeX styling reduce effective capacity, so phrase accordingly to keep visual alignment.  
-  • bold the most relevant keywords, technologies, and achievements using `\textbf{...}`, focusing on terms from the job-posting.txt.  
+  • bold the most relevant keywords, technologies, and achievements using `\textbf{...}` in experience and project bullets, focusing on terms from the job-posting.txt. do NOT apply bolding to individual items in the technical skills section (see line above).
 - never introduce external content or URLs not present in master-resume.tex.
 - the resume must fit on one page, which equals about 52 lines of content at the current LaTeX formatting (~105 characters wide per line).
 - bullets and section content must be written so the entire resume stays within this vertical height limit.
