@@ -1,0 +1,47 @@
+% Shared preamble for all resume variants.
+% Usage: \documentclass[letterpaper]{article} \input{resume-preamble} \begin{document} ...
+\usepackage{
+    fullpage,
+    mathptmx,
+    amsmath,
+    amssymb,
+    textcomp,
+    enumitem,
+    eso-pic,
+    xcolor
+}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\setlist{leftmargin=6mm} % Set bullet point margin %
+\textheight=10in
+\pagestyle{empty}
+\raggedright
+\usepackage[left=0.6in,right=0.6in,bottom=0.7in,top=0.7in]{geometry}
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header}[2][]{%
+    \vspace*{4pt}%
+    \noindent\makebox[\linewidth]{\textsc{#2}%
+    \ifx\\#1\\%
+        \hfill%
+    \else
+        \hfill {\small\textit{#1}}%
+    \fi}%
+    \vspace*{-6pt}\\\hrulefill
+}
+
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{tightitemize}{%
+  \begin{itemize}\small\setlength{\baselineskip}{0.95\baselineskip}\itemsep -1mm%
+}{\end{itemize}}

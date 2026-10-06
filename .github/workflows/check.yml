@@ -1,0 +1,50 @@
+name: Validate Resumes
+
+# Builds every resume variant on pull requests and on pushes that touch the
+# tailored resume, so a broken .tex file never lands silently. The tailored
+# resume is validated but NOT released — releases are reserved for the master
+# resume (see release.yml).
+
+on:
+  pull_request:
+    paths:
+      - '*.tex'
+      - '.github/workflows/check.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'resume.tex'
+      - 'augmented-resume.tex'
+      - 'resume-preamble.tex'
+      - '.github/workflows/check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build all resume variants
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: |
+            resume.tex
+            master-resume.tex
+            augmented-resume.tex
+
+      - name: Check one-page constraint
+        run: |
+          sudo apt-get install -y poppler-utils -qq
+          status=0
+          for f in resume master-resume; do
+            PAGES=$(pdfinfo "$f.pdf" | awk '/^Pages:/ {print $2}')
+            echo "$f.pdf: $PAGES page(s)"
+            if [ "$PAGES" -ne 1 ]; then
+              echo "ERROR: $f.pdf has $PAGES pages, expected 1."
+              status=1
+            fi
+          done
+          exit $status

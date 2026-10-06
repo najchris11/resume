@@ -1,50 +1,5 @@
 \documentclass[letterpaper]{article}
-\usepackage{
-    fullpage,
-    mathptmx,
-    amsmath,
-    amssymb,
-    textcomp,
-    enumitem,
-    eso-pic,
-    xcolor
-}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\setlist{leftmargin=6mm} % Set bullet point margin %
-\textheight=10in
-\pagestyle{empty}
-\raggedright
-\usepackage[left=0.6in,right=0.6in,bottom=0.7in,top=0.7in]{geometry}
-\input{glyphtounicode}
-\pdfgentounicode=1
-
-\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
-
-% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
-
-\newcommand{\lineunder} {
-    \vspace*{-8pt} \\
-    \hspace*{-18pt} \hrulefill \\
-}
-
-\newcommand{\header}[2][]{%
-    \vspace*{4pt}%
-    \noindent\makebox[\linewidth]{\textsc{#2}%
-    \ifx\\#1\\%
-        \hfill%
-    \else
-        \hfill {\small\textit{#1}}%
-    \fi}%
-    \vspace*{-6pt}\\\hrulefill
-}
-
-% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
-
-\newenvironment{tightitemize}{%
-  \begin{itemize}\small\setlength{\baselineskip}{0.95\baselineskip}\itemsep -1mm%
-}{\end{itemize}}
-
+\input{resume-preamble}
 
 \begin{document}
 \vspace*{-40pt}
@@ -53,7 +8,7 @@
 \vspace*{-10pt}
 \begin{center}
 	{\Huge \scshape {Christian Coulibaly}}\\
-	(614) 285 0735 $\cdot$ najchris11@yahoo.com $\cdot$ U.S. Citizen \\
+	(614) 285 0735 $\cdot$ najchris11@yahoo.com \\
     naj-dev.com $\cdot$ github.com/najchris11 $\cdot$ linkedin.com/in/christiancoulibaly\\
 \end{center}
 
@@ -62,22 +17,17 @@
 \vspace{1mm}
 
     \textbf{The Ohio State University} \hfill Columbus, OH\\
-    \textit{Bachelor of Science in Computer Science and Engineering}\hfill Expected May 2026\\
+    \textit{Bachelor of Science in Computer Science and Engineering}\hfill May 2026\\
     \vspace{2mm}
 
 
 %==== Skills ====%
-\header{Technical Skills} \\
+\header{Technical Skills}
 \vspace{1mm}
-\begin{tabular}{ l l }
 
     \textbf{Programming Languages:} Java, TypeScript, JavaScript, Python, C, C++, HTML, Kotlin, Swift \\
-
-    \textbf{Frameworks \& Tools:} Next.js, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, MongoDB, Jetpack Compose, SwiftUI  \\
-
-    \textbf{Certifications:} AWS Cloud Practitioner, CodePath Advanced Technical Interview Prep, CodePath Intro to iOS Development  \\
-
-\end{tabular}
+    \textbf{Frameworks \& Tools:} Next.js, Git, Docker, Linux/UNIX, Express.js, Tailwind CSS, MongoDB, Jetpack Compose, SwiftUI \\
+    \textbf{Certifications:} AWS Cloud Practitioner, CodePath Advanced Technical Interview Prep, CodePath Intro to iOS Development \\
 \vspace{2mm}
 
 %==== Experience ====%
@@ -85,12 +35,15 @@
 \vspace{1mm}
 
     \textbf{JPMorgan Chase \& Co.} \hfill \textsl{Columbus, OH}\\
-    
-    \textit{Software Engineering Program Intern - Mobile Development} \hfill \textsl{June 2025 - Present}\\
+
+    \textit{Software Engineer - Mobile Development} \hfill \textsl{July 2026 - Present}\\
+    \vspace{1mm}
+
+    \textit{Software Engineering Program Intern - Mobile Development} \hfill \textsl{June 2025 - May 2026}\\
     \vspace{-7pt}
     \begin{tightitemize} \itemsep -1mm
 
-            \item Self-taught \textbf{Jetpack Compose} and \textbf{MVVM} patterns to accelerate onboarding and contribute to the \textbf{Chase Android app}, installed over \textbf{100M+ times}, demonstrating rapid learning and adaptability in mobile development
+            \item Self-taught \textbf{Jetpack Compose} and \textbf{MVVM} patterns to accelerate onboarding and contribute to the \textbf{Chase Android app}, used by \textbf{70M+ users}, demonstrating rapid learning and adaptability in mobile development
             
             \item Built a new \textbf{merchandising tile template} leveraging \textbf{Adobe Experience Manager (AEM)} data and developed an internal debugging tool allowing developers to dynamically swap between all merchandising templates
             
@@ -105,19 +58,6 @@
 
             \item Modularized the new frontend using a \textbf{microfrontend} architecture and existing APIs, enabling partial integration with the legacy system while helping developers maintain \textbf{99\% uptime} for critical financial operations
                     
-    \end{tightitemize}
-    \vspace{-2mm}
-
-    \textbf{The Ohio State University Wexner Medical Center} \hfill \textsl{Columbus, OH}\\
-    
-    \textit{Web Content Editor} \hfill \textsl{May 2023 - Aug 2024}\\
-    \vspace{-7pt}
-    \begin{tightitemize} \itemsep -1mm
-        
-            \item Led the Comprehensive Cancer Center's transition to a new CMS, empowering individual organizations to manage their own content and enabling more frequent content updates with streamlined workflows
-            
-            \item Revitalized webpages by designing and implementing a new UI system, achieving \textbf{100\% accessibility compliance} and significantly improving user engagement and content delivery across the site
-
     \end{tightitemize}
     \vspace{-2mm}
 
@@ -157,7 +97,7 @@
 \header{Leadership and Professional Development}
 \vspace{1mm}
 
-    \textbf{National Society of Black Engineers (NSBE)} \textit{| Recording Secretary} \hfill \textsl{Aug 2023 - Present}\\
+    \textbf{National Society of Black Engineers (NSBE)} \textit{| Recording Secretary} \hfill \textsl{Aug 2023 - May 2026}\\
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
     
@@ -166,7 +106,7 @@
     \end{tightitemize}
     \vspace{-1mm}
 
-    \textbf{ColorStack - OSU} \textit{| Active Member} \hfill \textsl{Aug 2023 - Present}\\
+    \textbf{ColorStack - OSU} \textit{| Active Member} \hfill \textsl{Aug 2023 - May 2026}\\
     \vspace{-2mm}
     \begin{tightitemize} \itemsep -1mm
     
@@ -177,13 +117,9 @@
 
 \header{Additional Information}
 \vspace{1mm}
-\begin{tabular}{ l l }
 
     \textbf{Organizations/Affiliations:} Minority Collegiate Outreach and Support Team Mentor, Minorities in Tech Member, BOLD at JPMC \\
-
     \textbf{Languages:} Fluent in French \\
-
-\end{tabular}
 \vspace{2mm}
 
 \end{document}
